@@ -1,0 +1,2099 @@
+
+Dompet #1
+Mnemonic: swallow coyote silly doll trend alley treat erode skirt armor rifle vacuum
+
+[EVM]
+Alamat: 0xeE21F1E3C1664822a2338e7E920aDF6A322c8a84
+Private Key: 31338631cd27b6e633b13095adf5282047ea89b6bebe0e94c38c568c2f61169b
+
+[Sui]
+Alamat: 0x4d0ceb53b5b49c3e857a135323264de688c535b51f520a6d027ac00c77ec7ec4
+Private Key: suiprivkey003e3b863ce25d9cff4b5f7909f102ebcfdd67b48969cb2b8692217ba6cbba4933
+
+[Solana]
+Alamat: FPMUDXj5ksDHp1wjFyCMiGcPCPANGhsrht4DrN8hxhga
+Private Key: 0453908ee69557a008a352a514f0f6f4bf05e0e1caa472e61ca6496fbdab2808
+
+[Aptos]
+Alamat: 0x0fae733299889b136e10d87e4526f078151524d4fb0555b3e4f0984f9b20a88c
+Private Key: 1b2c91a87d4cd1f266ea1cd03ff4204a05ceadc2f5ce0dd0bdea018266c2ed48
+==================================================
+
+
+Dompet #2
+Mnemonic: garage west inner recipe gospel appear stamp oblige yard cycle funny calm
+
+[EVM]
+Alamat: 0x1C5a4171ae9a2EE889EC4324Bc44591D0B685766
+Private Key: f026c8e58a0bf6d423ad35d0cceeff3c4a665929880a96af5173ee7226655d19
+
+[Sui]
+Alamat: 0x2781dfc22eb3c7ecc6ba175ee4ef7e44f959c6fe4209ea1d5303aa1ce2852c42
+Private Key: suiprivkey0025c639b0dcc756d124fdd3bf17b1a7ee94312f9556bb0a57cc5e68c6ebb2fb51
+
+[Solana]
+Alamat: 6zCo5o6MJXnaEisJkz12KQTRaWLX4p2NNNACkjNpgcRs
+Private Key: def02e91ac6d48251b70228214cdda1bec44ddfae744b62c8780ee870fac3924
+
+[Aptos]
+Alamat: 0xf2cb5db803615db9c0e55254e56b2a1c0c6598d8e2957705771e67a74a043541
+Private Key: 85b89e8f486fec39453f0b0b3b22c0ffca1393280a9acea593b7c59b3ebafc9c
+==================================================
+
+
+Dompet #3
+Mnemonic: artwork step reason repeat chunk mystery harvest answer knee business hurt mistake
+
+[EVM]
+Alamat: 0x1acE4D360D7037B6dF6f85F217630c434C20aadc
+Private Key: 4bb78db6ee6bcc10af26e0039a8f283f0e6aaa72f7d1de021cd4f09544faef6c
+
+[Sui]
+Alamat: 0x51daa3f0653fc371feb02256ac7b7dcc69e3374d67344ac88e6ba6740f328e3d
+Private Key: suiprivkey00c1ebd93a6390fdd5d74bcf3482bc2bcab35ad5576bb73e19b70d9154019531c0
+
+[Solana]
+Alamat: BrstPMBojp6VqgvN3nc56ewetAHSR8Y97VgajD5Qk9TG
+Private Key: 84dcb8e60c3cbc7fe7d7138fb89f7a34180ab3e3c441f9815a014edb58551cda
+
+[Aptos]
+Alamat: 0x6be4da81932b5e15f70527276e2dd83bcaef3780b44ef3b2f013bd280757adac
+Private Key: 233632969650eb7a8465f4a14c7459d8a48cacda5013edb49ac1cde1e129c25a
+==================================================
+
+
+Dompet #4
+Mnemonic: blade series miracle siege general gentle among main female skate chair naive
+
+[EVM]
+Alamat: 0x9fC3331270D34e712ef14672e2b359bCCc653b5B
+Private Key: a0259fea47c8741424c24416489bda268cb87ed7aa509863f2f9f2a8a4306598
+
+[Sui]
+Alamat: 0x47f6268cd78ef4a1d28bd180bf4071b31ebc29dc8720a19c4446480a1e18f002
+Private Key: suiprivkey009df367d2d961c77a2e1ccdc74c1462401a327c2a91b282173735bb09f638ba05
+
+[Solana]
+Alamat: ArQk895NKMARevkGKt91rhcBraQNDgPf4DwxKDsWyiro
+Private Key: ea12231697a0cbcab3f8af656f1d27a70cdd8349370294d5bf9c72b52c6ea849
+
+[Aptos]
+Alamat: 0xdb1531b8d47d1aed6b1774deeb5650696a1509796a0a2341fdf6ce487e2e48bb
+Private Key: c88cf08ac41c8da393569bd81546e649aaf86b3f5b5c4f52f8dfa84a1c519b7e
+==================================================
+
+
+Dompet #5
+Mnemonic: confirm pole empower focus neglect marine obscure tomato dice awkward bus stick
+
+[EVM]
+Alamat: 0xd9906A0EaeFB2645bbd89246dD1D3890e34351cD
+Private Key: b6c89a53f43712fe2e97cf5db3fd7068a0dbc59ab496d6e86bef73db3310c455
+
+[Sui]
+Alamat: 0xc3a00d3cdefe437b010cb59221e787938a562bf1a9f164094802c5f23beb5e76
+Private Key: suiprivkey0074b7d960c8785d963307c9aadc1e75a0acc31e67a7a9d62e52a65a255d1b1125
+
+[Solana]
+Alamat: 2goNbMnbqcZ5ox3Kk9dGJnoCPmN5xnaVNwocsfjunEuC
+Private Key: ef5e7667f5b62e6480fd10b6c7678cc6f4c8a746b5da455c21e048d66d703706
+
+[Aptos]
+Alamat: 0x82d3920a4b0d312f2473abbaf46b7b22ff3af2e1fc15c9780f9ab35aeac2486c
+Private Key: 279c8781cc8a8cb69877cf1d5b789c676c624da54fd350b7a97f2e82973c6bac
+==================================================
+
+
+Dompet #6
+Mnemonic: kidney describe skill once dumb enter intact rain dawn shy breeze soap
+
+[EVM]
+Alamat: 0xf953357Efa5c04843C0FD97F8Fc5a7c112F4Cdb4
+Private Key: 8bd6512c91b7113e131d321c2d41f7873905fb0a072640c64bf3f613973eee21
+
+[Sui]
+Alamat: 0x77792d73540d61ca068f65f5448a419fe4d35fb2a3c2b846397c335a160cd8f1
+Private Key: suiprivkey00199b146c49777f512491ac350c5bafa99798f08279236d115ce6ee659e2e35c6
+
+[Solana]
+Alamat: UHB5eGhs4jhqhgtEeuLPhCKsdJ14djLnRSkqJmnrzBH
+Private Key: 550217f9df6e00983d8557bfd1a4c939bdf3ceed5628c221a998f640031ffa34
+
+[Aptos]
+Alamat: 0x001d74289973730e043dca3f3561efa56690ec26b1c6e84d739baea1acda1c6c
+Private Key: 681d7229578836283d0ec19d6f7cfcb382e7b10e2386100ab01068138d65db11
+==================================================
+
+
+Dompet #7
+Mnemonic: topple only bread dial talk debris nature fashion occur surface shoulder puzzle
+
+[EVM]
+Alamat: 0x95C9Cb8190431E14dd3e7Fa0c07134E4df3d9f0D
+Private Key: 4f1ef93f4ca55e190214b99d9b8cf32ff467e0204f87975f93a00ab7d3647cdc
+
+[Sui]
+Alamat: 0x0d2dd3c3ef1f3d9b1aa5f5d4819be2caf5ccb306ab58f5a8dcf3ddfb244100e5
+Private Key: suiprivkey00ee0d3742435e7a3f316de6e1a1daeb09de39e7793a91119bf83ff8bdb1fa95c2
+
+[Solana]
+Alamat: ACxF58EzDYKy1u26PYGH2LEKYrB8fdACLVkvvv2pC4d7
+Private Key: 687bb3c315df0c1098d528323c5f67d1118ce5fd34db61ff04f768df780a29b6
+
+[Aptos]
+Alamat: 0xcf7fac372e78ff108e2f9fc20681c9484b797cfbbb6cbc6aa6d0403489dda88e
+Private Key: 78c3c1f73e3ba3adbe082ffd93807c4b3b6b16a2cfe1ee4773e4a9946623326a
+==================================================
+
+
+Dompet #8
+Mnemonic: knock mixed seed silly leader box trip aim prefer author betray art
+
+[EVM]
+Alamat: 0xF3947E7e32f1Fa7dC1016500d5aA2297859F3fb1
+Private Key: 9a0ca8c0174df261b652448bf53b743bcdfd6b8ae7a112f81d24bf0e7ffaaed8
+
+[Sui]
+Alamat: 0x723198f9dcc4b7dac2a67ba656e66d24bf05f7e86d30bbbfd9ffa2e6d83a539b
+Private Key: suiprivkey00a8f66914b36913cceef78c5fa1df8ebea2bd52c4298ea24d7048944b01fbc36c
+
+[Solana]
+Alamat: 4jvWvTxdfTVsj6AuTAFF5eKKaWkJAmEtzycp4y3A8LRM
+Private Key: 2d59cb398674b867e31c483edcc85cbaf4865ed9ff58d6f2b6b00d2612e0eec2
+
+[Aptos]
+Alamat: 0x89075b1c47cc8bf9e3c37e914cfee9b5037c396d39a4a41d6cb4440bddd8d783
+Private Key: a8c7a5c1cd739518919bfbf30036d54e649ae035b30aa8966e8abda93a2e0af0
+==================================================
+
+
+Dompet #9
+Mnemonic: increase estate craft rubber glide disagree also race cable pass path badge
+
+[EVM]
+Alamat: 0xA682637679480f19a7327CD125Ca9F2c42a666Ac
+Private Key: 2247f3e6a473e7d695d1844ca8cd7c793b4a6380807bc41e08ebbd4d22021627
+
+[Sui]
+Alamat: 0x993e0d320fe715ea127a7278a7545441cc3d8f2458d46a0bbd86c59cbc8e044b
+Private Key: suiprivkey0076ffe2cec24324d8e38be14a86387e5e66d857a0779deb72cd712e78288d9c7f
+
+[Solana]
+Alamat: E4pZSRySSny4iAPjypV6sA9rYbYGFB6XmfYS9tNGUT2R
+Private Key: 3033801f1e29cbdbc7f74fd7e9cb2d3df8b6b4239ba1bedf8cc33d8983657266
+
+[Aptos]
+Alamat: 0xe3aa6793231e2ef2687e798a3e35e40eb52d7fb747d19bf7b7cf7a7f3d0ad408
+Private Key: b84764e677cc13b9621ca25fc6b96ce37cfe9ea313af948438df749aa0cac96c
+==================================================
+
+
+Dompet #10
+Mnemonic: dawn moment nephew float disagree rotate sponsor luggage wheat teach crystal capable
+
+[EVM]
+Alamat: 0xb238298C12cCe9379DfA4b43C8b29bfFE9Ed8ed7
+Private Key: 6a51a9f34a8a9dcd45aae3366060a75f65e4f714ef50c829a65f38ad18f7d1b0
+
+[Sui]
+Alamat: 0x6e3d287b2ef46a71ad02d188fde457fe7c1f18fd45d4fa54e82014547a3c86bd
+Private Key: suiprivkey00d37322c2e5492b30a4ce472c3a99a12c983bb77b10fac94593d5fd99f3ff5c17
+
+[Solana]
+Alamat: HhuX7f2bSeGDWNBeBZkyuvXXwPwuxzurAs3zzBjNSkB9
+Private Key: 1ce65c0d9cf7aa5cdcbdaa876ce733965805ec73f2add49e4a962a34901ff5f2
+
+[Aptos]
+Alamat: 0xc3aedec2d993bbfd0f2547c616dbbc2e7793c8da00ae94dec17a0a6a85149f2a
+Private Key: e1aed7ac8689665aac3485e34904aa87e963d1120f790e7f8beffa3decb0f96a
+==================================================
+
+
+Dompet #11
+Mnemonic: ridge layer arena arena enter truly pilot coil pencil excess scatter seven
+
+[EVM]
+Alamat: 0x5E71f0c657C16C0F102d643Ae02E3a2499E7aF61
+Private Key: 1ec617e725a6b8d1e1b8a47afe03c9d239b919b69eacc138f04e863440b7e8f6
+
+[Sui]
+Alamat: 0x0339085076c58e22efbe5d66ab7197018dd090ff6b853f5db42e6a595164686c
+Private Key: suiprivkey004e846b28f227357a67ab81fea62b88a3a9c047bdf8bdb7f258743b050f2f4cd1
+
+[Solana]
+Alamat: 9nSfsDYMqb5pcQ37wuxDVfFfDXmNuH2EELQLxWVWYPE9
+Private Key: 66f52334edccd6a0b395f524ba6c4411b9b23904105dfcf2a7aebd211d7b46b6
+
+[Aptos]
+Alamat: 0x35224150b6b44a305a202eb1c77f9cb52d2daeda50610a9eb4044577710a85e6
+Private Key: 2172c21d2528057ce6697e332fb73f122a023ece8f408ff56222ad570abb38d9
+==================================================
+
+
+Dompet #12
+Mnemonic: weekend clock spend slogan relax wash maximum rain two unusual cancel similar
+
+[EVM]
+Alamat: 0xd90Fe36FCFeEaE6b62F06E7EE4Bd352716B2d226
+Private Key: 4e813715b20cfbb9f2d7291192110d02ba970fbb0e55886e258875691a4bf628
+
+[Sui]
+Alamat: 0xbdd0eb4af68a19741b0cccdf51f2561b400d5695d94c87090255afe278473271
+Private Key: suiprivkey0002d9f405769123633dfa52da2f182bb9ff725fa2413c622c23f63d12d49833d2
+
+[Solana]
+Alamat: G5G1gVoJHUMsgBRwvcZPdNqJSfb7ytiwe4iTs4SHd6xo
+Private Key: b54b2d5a7f88e840f1c2579fe79b4079a55d5bd5a1b3ff464c630069c2c2bff6
+
+[Aptos]
+Alamat: 0xce082218b1bea70e5c9490be7e19d53ae36fc690245aedf24438ec3da1db4d16
+Private Key: 3794b889b9cc34ad054dcfcc9393b29ba5d4591c7a4e945ebade5848676db77e
+==================================================
+
+
+Dompet #13
+Mnemonic: flat table double music foil fun social ripple stable skate denial planet
+
+[EVM]
+Alamat: 0x59709C5b1657c4539C9A2f155d3c279325E87663
+Private Key: be4d9c34933c9a2f1e36ea59dca3b0431e5897e824db09a23e6a1e24b8b62049
+
+[Sui]
+Alamat: 0x3ccbda3048cd185b232cbfc7756e4b08a7d63016b5c77ce0442d9714ae82a619
+Private Key: suiprivkey00aebe0afd732c14e1f065dc08a3c08af8c1f5360bc821680d3449dac881e5bf2c
+
+[Solana]
+Alamat: 81jNV3mRy1X8ERmUduqNtgW1Q6Sj8qpBMYB3HbEVaYgT
+Private Key: ed53a64e6bac83131cb49a7f3d0c3dd98cd5cfc66c4d14077dd2b435b02bdc7d
+
+[Aptos]
+Alamat: 0x61a0ef24fcb0045f7dc52376bc4f49d8f165b05a333fdba3cae470722f89938a
+Private Key: e9e7eb5466d37bc0c19b9cf2490f96a2d45fe0f7943950bbf2b6c580d760b704
+==================================================
+
+
+Dompet #14
+Mnemonic: toe plug wing army defy outside power lawn shy wait zero treat
+
+[EVM]
+Alamat: 0xe795CEcf39f704B99FE3dc6d89C6A8587cC4BBA7
+Private Key: 8d581a7613681583bf13126d7a393ca398169bfe052b6db857d754898fc07b3b
+
+[Sui]
+Alamat: 0x68164bc5ab7e8f093a39d5acb2430917e2caa095e8100ec7c02b9ac43cd58125
+Private Key: suiprivkey00cce47781dcb0ac6660ac155174a0f575c39f0587c580408a08c8bde35f541861
+
+[Solana]
+Alamat: 7jsjCptSxFt9AWR6yAbvG42zAFdRsZr79Eh3F4YKASoP
+Private Key: 487b8a6dadf0bdd328b1a311030d8e8c4b79a49ec517e38347504405ac904cb9
+
+[Aptos]
+Alamat: 0xec46bad02baea9acd912b618bdb065e0bb7197d9c536a3b231d7f00bf4e60834
+Private Key: 2b910dbc8bc6152d33b8736f9b4dacc9c85867fd1df43be6c0d28f948608cf80
+==================================================
+
+
+Dompet #15
+Mnemonic: brand whip manage brisk update service because stuff sign monster hour leaf
+
+[EVM]
+Alamat: 0x7e34e8f905b6821C60539163727b4C0a79e0d193
+Private Key: 3008a8700a34f76c8036ceda3406f2b0bdf92def512223d506ecab62797ead5c
+
+[Sui]
+Alamat: 0x355e7f206a7a82d3722833f4434c64da26cdc941a47f343cb6b740cefcdd1683
+Private Key: suiprivkey004de73db520939863e8cb19bbe48b26053451b5fe7b9ed70fabd3e4b3e655d2b4
+
+[Solana]
+Alamat: 5ExWb8zLqy54KKExo8qLQC6LspvMBiijUSiiwCdd9B8j
+Private Key: 5178d17865b093e37b030cbba4f5df7a8a42d301e06008d863ac611f94ac0ba3
+
+[Aptos]
+Alamat: 0x1b9050e0933ba71c938d1291985444b0d005a883ed9033d3662202e34da6fd4c
+Private Key: e5da4f0a092c48b152872bae0789d4b9f4b765feec920ace4f7b8ca03c075f1e
+==================================================
+
+
+Dompet #16
+Mnemonic: oxygen actor orbit fragile picnic wasp tragic forum meadow trip mimic medal
+
+[EVM]
+Alamat: 0x5793De02bdAD732b68EE2d4a0b500d4A0Ffe136d
+Private Key: 2d299decab05f4aa43706ed20e3ca1181538c2d3e28c78c0c633b84876098914
+
+[Sui]
+Alamat: 0x9f41eed7992c1d15e2bdba83690e43909635d994b0edec14eba8f26689075bc9
+Private Key: suiprivkey003621ddb9fd17001a820b5f0da72599eddf9c432c81c5f075f2019585074d9353
+
+[Solana]
+Alamat: CLr8uY8jncVAF8FybKcdMGsWDs9ioKcjSVoBg4ykDyv1
+Private Key: 57318e40b2745e74fce5d1929325cfbeea406f55f597465e1a21eb2acf7c0b29
+
+[Aptos]
+Alamat: 0x9c1524c8bbb3410dbead463fac0a6a205aa8c670cbac741a7d1d70a7624ebcdd
+Private Key: b1ce527dd7a687974b8431eabd82783036ef3094d8277f0cc2a30ac8cd9bf5b5
+==================================================
+
+
+Dompet #17
+Mnemonic: bundle ice switch tongue course trash fame situate never glory heart priority
+
+[EVM]
+Alamat: 0x48F2722c7bd1C2f47C478D8E4dcDE60e2EC4368d
+Private Key: 8ff57b07b875ae680866ceea3d4269b138df873f757dd61314491eccea079650
+
+[Sui]
+Alamat: 0x734dce82f6814356edd061eda23c3ea42ae67c432c53142fa389ed4721ed3635
+Private Key: suiprivkey00e362640b699e3dae0b88b13b3d5e85364e7acf16f13d586a955235f444bb1f92
+
+[Solana]
+Alamat: CwsMJh4Bs4BxZd663FFhtNR9eePtioVmPqraBsJciEVa
+Private Key: 4c6a6d40be2261a46d130ca82adfa2147664663e5822e9646259ec6a0adfe5ad
+
+[Aptos]
+Alamat: 0x7f1f669f12db5a55cb642bab4935827586750204211af4c4429fc67b92299cac
+Private Key: b264a9c2b7a4fdc5fa8b1ebbb78feebee16f048558894563671fd38e51febdfb
+==================================================
+
+
+Dompet #18
+Mnemonic: receive lesson elite submit squeeze style digital benefit naive wine betray wash
+
+[EVM]
+Alamat: 0x13c53550652480944ED54EfC55a73B5542d49D90
+Private Key: d5dc5acd6e96a84d8601befec949151945f49a4048334e4132ae420fa26714b8
+
+[Sui]
+Alamat: 0x4bbdef3da3baa7332cdf8fa46d61dcbd91afafb5e7cbddd8da70e2bc1e2a3c1a
+Private Key: suiprivkey00950c3b52cd0ff8e6b77fca89ce771ea181719a89acdbdc72733ff7da0f4158d8
+
+[Solana]
+Alamat: A2b5EsZ4fv1iiRphmEVk5E8neV6pDA9hGfw3TG4FVV8e
+Private Key: 977c27f8969a86ede17007ae0ebf663e226f5d3ff9264359a54b3ff0aaa5b539
+
+[Aptos]
+Alamat: 0x2248e4fd8ec184fc9da7c6d9688280285cd326f9bca1e181f751bad8956222fa
+Private Key: 8dcc7b00820b14be03c99dd242f69f0d7b60320fb6f9a6fc54b5eb6a92c151b5
+==================================================
+
+
+Dompet #19
+Mnemonic: heavy slot calm crumble dolphin brick point village tray differ erupt video
+
+[EVM]
+Alamat: 0x7d9DAE486d2Bc4dE37AFE0711064b6b989fE1560
+Private Key: 31af02ab3ccbb2df00cd8b270df5e36e4fa31fcf294f13aec92388ebe982a2a1
+
+[Sui]
+Alamat: 0xa2c176c3ec81f3505108c051728898f629893d031bff0bbb87bd2b8fc8730692
+Private Key: suiprivkey0070271b8c1a8977da6f6518ad09824cd55e65033035516577d505aa6904c498d6
+
+[Solana]
+Alamat: CL4WHQ1C2G446JLrRw6TZ64Uby6yUTojjQRnHeRLSRsk
+Private Key: bac3e41ce2a6cdb89be5b32be55b52e111aff2e32b3d5f944c7e48a56ea43649
+
+[Aptos]
+Alamat: 0x707f48df3d07f8673d57578ff1b9ae26f97460393167748c981aafc6f17ae08b
+Private Key: 37b932a6ee158669a5e79615e3a383cd814c4eae4592b36f094441f53aa31c76
+==================================================
+
+
+Dompet #20
+Mnemonic: nation bean offer hour acquire insane expand exotic travel potato tennis tent
+
+[EVM]
+Alamat: 0xB11dE946D951DE35AFcE5e68641BF8A1aa508C53
+Private Key: e691a61e44f0b9bc0f49c3cd3279be8359696f7cf0607c5afb2ec6b86eb4da03
+
+[Sui]
+Alamat: 0xe7f32ea4b7d49307e957f8c9772c833218b21907ff7d3647a4e4df8e0bd1c4bb
+Private Key: suiprivkey0005af10eac8fff1832f7ba47b1e3408bb4fda7a1430e72c3f2cacbcfb66cd1530
+
+[Solana]
+Alamat: 6QLCmbX9CnBVQeaL4p6wVwWcQAuGpBmdH8LXKJTJPvjx
+Private Key: 07e13fc587b8eef6cb53f093b0c4cce40ce6d23f384ec2251785cde1c67fa1c0
+
+[Aptos]
+Alamat: 0x3a25f4ea90aff3b88769ae1aea553358aeebb4d8ec509cca9cb108d7260e9b13
+Private Key: 65f2051e8188faf7ea7045b8d514b11a23f961319ee06ae41997930dfd80464f
+==================================================
+
+
+Dompet #21
+Mnemonic: mystery aware topic energy width immense spray maximum shoe forward alarm wrong
+
+[EVM]
+Alamat: 0x4eff9A2729a804AcbE741766112Ac7511908749A
+Private Key: 39dc9edce7492cc237f90ea88e2a6b3d2fd1d51ce79d2a4f53611ce9fc266a39
+
+[Sui]
+Alamat: 0xa175c4be18190eed5432ccb576e88c52c864fdff92a57c085326a6c3885e8454
+Private Key: suiprivkey00fa3ef5487e278341b4d8c0f959823ea1bdf45047013c0888345dc5682fec4cdf
+
+[Solana]
+Alamat: 8GLRab1MWfaqSbFojzyddcyWzQe3JGSLSaiRdCxKbPWq
+Private Key: 1dacdeb8a04ac2fd45adb6137d8d6f8164b21bf14e0c6b883a29410f4bf69ace
+
+[Aptos]
+Alamat: 0xa6b37ec0fb82d72972af8028d1872ea298dd34242cf0ba7ee938e28426f759fc
+Private Key: ba51b95bb0bb0d9674d3bbe312d0c9fa4d1cd18fc587b53312609133b5d6b24c
+==================================================
+
+
+Dompet #22
+Mnemonic: tattoo message vast situate wink copper repair unhappy nut width panther shuffle
+
+[EVM]
+Alamat: 0xF09bA408642FA78B23e27aC1b772575dE4ba402B
+Private Key: 10be9041b61153f2087cc963d739386fa373293c556fc54c5ea4e3c6e3672cc2
+
+[Sui]
+Alamat: 0xe9e38de1ff91b71bf7cab27d6d2022ae0fab2f44858c30e7d2fbbb953dbcdd74
+Private Key: suiprivkey0011188935963c6df378bce565a6fd3b9ef0545c1a3dfe11bd52b2eacb939d60dd
+
+[Solana]
+Alamat: F74UkYRdApfdMozMbCUeuj6Z1yPVY9DbWKLy53a5gjsK
+Private Key: 3b5371580e0095681287e02ee6bce90dbc01efc03c3f177990a9ed2532a83b7a
+
+[Aptos]
+Alamat: 0x205267d330f59a453bc727561058548144d892780ac2f1146b3307cec727135e
+Private Key: 0268abf18a65d9d8a94040fe23a01ed780d420bf6a376ad9d8cee30dffcfe647
+==================================================
+
+
+Dompet #23
+Mnemonic: depart curve immense daring need sell notable swarm unfold circle bonus guide
+
+[EVM]
+Alamat: 0x0C9aA10d0e52729A410Ee9A3767B13494250DaFF
+Private Key: 96297c14f36204269414e3340d9bd74cd4ee9adaa24d44de9d1e95d3c9237845
+
+[Sui]
+Alamat: 0xfd5cd0bc8ddfadcc701044f27f7d8647b96ffa7a019e5c9db032c89b1930b060
+Private Key: suiprivkey008a2c1d694024b2c71d1a254bd591406dfb8aea8f45acdf47524c132964ac8a7e
+
+[Solana]
+Alamat: 9TDF4dbvf58989tfoxRfGphTRR4D8R6CCDM6FR9jqZ4x
+Private Key: 9e990992616d0e32367220580628d30ce8a7e647e7bc807e59d21edc758fccce
+
+[Aptos]
+Alamat: 0x484644a4aaf27f9d5fe17134b27c9dccb1480262adebd0fb956b245c9f6a4971
+Private Key: 38900b8aa1de053cb05ef9aebd5ea9b157f739f8736b4034bc1e68e8abd57839
+==================================================
+
+
+Dompet #24
+Mnemonic: truth swim salon build foot edge replace wheel rubber screen cash inquiry
+
+[EVM]
+Alamat: 0x51c37d782669C542df526fC0f843F5843F5281A4
+Private Key: 9dfac4d677b0f526e7e773242cfed56b1e0149d0555460c4086b654b56944fe5
+
+[Sui]
+Alamat: 0xc79079375e87f007b3d82d85782afe366318b72c276b98e87faa18fcb2bfe302
+Private Key: suiprivkey003102d680439c71994177712f180b022bad7609b17bb90055ccf3833e96ae7189
+
+[Solana]
+Alamat: 2nMSz8kYzJd5G3H6ro34ufYo6fpbDxdc2uytSmeKanoF
+Private Key: 7824c7e82e1dc3b5a55bbe97b21080131d8cff7f114b7d6a419bb434e28b407d
+
+[Aptos]
+Alamat: 0xc86f59cfd01912c718ce22004a78076f666cb62a3ec68d6fb6cbe18d319f9c6b
+Private Key: 5ae93220675aec5d6418d450b8ef46b02a102f580d938ba8763bf374cdaaa056
+==================================================
+
+
+Dompet #25
+Mnemonic: have great arch blame expose picture lunar arrow mandate speed real rifle
+
+[EVM]
+Alamat: 0xDc351ED5C62770c4B93ccc19Ba6Dc457C791B7B5
+Private Key: 66634cf6fe5692545ff27e91f014f7db9b3db37c5ea1d0e97c9ea2ea42d15591
+
+[Sui]
+Alamat: 0x20857158f36ff4b4d9f4ba6a33203042147570596efff9beb79bfc6cbef88a6a
+Private Key: suiprivkey0043738b8ac9d56ab77a08d12164991dff17d358390441f603691e8436e2e03637
+
+[Solana]
+Alamat: GE3BgMWBHHgCdFtTv6pjDSiBgLcfyVDZ94AMhjjJEgyu
+Private Key: 4ce6c44d65aee9a710def48037c0ec43d57337a9d660c27454268f7c27abb8b2
+
+[Aptos]
+Alamat: 0x164c2b85c6eac48dc38aca3e9cef6b9f5db3190808d7c1cb94a0e4efaf838462
+Private Key: 9aa36dde247ef7fb8fb8232a3c6878d7fb4c3fbba47d89c2cf96af58b9691998
+==================================================
+
+
+Dompet #26
+Mnemonic: toe all inside betray hour movie collect over neck off donor seven
+
+[EVM]
+Alamat: 0xd94dA0035aC69098878a3F679EE32b2a2fCa465F
+Private Key: 86cff796a285d250b0e076ba8210a04e34c230e7cfde58265b5a8470ecc03393
+
+[Sui]
+Alamat: 0x387ba30c9c0954a5f592020fe1095067b076c73d0d1da1590fdb9aad5df431e6
+Private Key: suiprivkey00951b18d0cdb461fb45f7124fd4ef7c7da42771cfd56f17cdce73a626a6c1745e
+
+[Solana]
+Alamat: FA3oBBo5xDWAhXMi2hYRFJq7N5eKoi7XjJ12H2r72PzX
+Private Key: d2a683472d63f897f240e0ce6170512df06d623d486ee4a810a1f0b98b12841e
+
+[Aptos]
+Alamat: 0x2d8dce2b10a09c981f19b2f8ddc43118d823bb2f6b306fdac337477c4dca7584
+Private Key: a00e9d6d4460126d493f2c46e32f687adaf7198148f9021bd638e02784c05c55
+==================================================
+
+
+Dompet #27
+Mnemonic: annual crew soul clutch easy happy soap lava siege pitch genius cat
+
+[EVM]
+Alamat: 0x8a7E37C8fEf65baC67B8948E8D460F3bcfcAA1d0
+Private Key: b36f7df69ad60d27f7ee5aff2874034fe68f438a7b465d705926e394d823f56c
+
+[Sui]
+Alamat: 0xe897233a17b6bb6280ac0fd549b6418bf5048d3775cfb7fddae8754a60ac2032
+Private Key: suiprivkey00c64ebcef5bce3a80327d42d2f3e5c6f1e40e421cab8c0a4778419f4f9f2cb3c1
+
+[Solana]
+Alamat: 4siDKhFFDVyAAPq4AhxbQkmXxog2iQqK8LkkSi9QfYuV
+Private Key: 4a625dc89e52af608fe5cca2b14aa2c5bc1b0ddf5a69fced16a8a8ad7770b5b0
+
+[Aptos]
+Alamat: 0xc8334911a6c3c6536a90748fb5c571455ca5c2b32995d23acb2b793dbe58d8db
+Private Key: c626c8478bcc8198d257baf2b51f11ac2132a146e7d5353f87f398b2fb8b1bbe
+==================================================
+
+
+Dompet #28
+Mnemonic: stadium educate reduce illness move scissors next mask axis empty wisdom throw
+
+[EVM]
+Alamat: 0xB93398Be16D5F1E6208Ad3379215967FD14d93c9
+Private Key: da108a7859d76eacf3bababee587f49f1fe83a69492bd4e407a1de5c060b2b8f
+
+[Sui]
+Alamat: 0x1c9f0082488bbc167136a5c7d543649d9f9c0124668ae8cb576dbc321dea155e
+Private Key: suiprivkey0052a545688bf610e0dbcf0f93c28f40ad44582b80a480dd4635e0277851e15f32
+
+[Solana]
+Alamat: EFn79UVDX5PR6MUQoVKSqpAvc75n3JGNPTXqD4sySxSZ
+Private Key: eb7e8e7fa68e9a07176a3b1ce9a39c6c6839bbbe46a205a94894a7a923c86c63
+
+[Aptos]
+Alamat: 0x20f4158fb8fb37959bb71b701dd95a883ad0b74f4ee0d6fa0a01f8b892e1257f
+Private Key: 263539fc5372925fa15fcb840982d2804e4f5cf9fb16da33b3b8d7034f81f38b
+==================================================
+
+
+Dompet #29
+Mnemonic: brief claim reopen faculty agree exhaust amount cheese you situate walk debris
+
+[EVM]
+Alamat: 0xbE3E440f5dd97A5c13dA274CB01a9750c7D42Ffe
+Private Key: 06d5cb25a1669afd05a2b31ddddfcce144722c83231ee5d992d8ede2645c5f1f
+
+[Sui]
+Alamat: 0xb12bed3e4cba23310b1917b303b0185df5e74eaabbe30a9ce05eaeebae7abfc8
+Private Key: suiprivkey0074e887eddf0ff074b459f7d8b5e2becf9ac425e972ab69822e7a787e873a6f0a
+
+[Solana]
+Alamat: 7yF1SSLApxszeVmn7E3aN9bfMatxZy91GQBANztskgy3
+Private Key: 1a938bb915ad4d0e659a412e005f95b57ecf9b234421ee973b1d3156b95cc77d
+
+[Aptos]
+Alamat: 0x4fcba9d3270c9e5487e8c8e79c12b2d008e9ba3b9e3b0c53053bb75e03c5df3e
+Private Key: 15b1411878aacafd7ed252f2625cae4ed28834a34eff3b563e203bc4bc4533ef
+==================================================
+
+
+Dompet #30
+Mnemonic: damp sock half oil equip census remove furnace case stable burger floor
+
+[EVM]
+Alamat: 0x9576ab1253815B6930eeFDFFf4Dc125801E77516
+Private Key: 237ac2d9f2366c4ba71487a24bc42f5f3b316fa94c63aa10d791480b56b3236e
+
+[Sui]
+Alamat: 0xfff6ac29a11b81829d5580d1548b5f286a4d255e8f0a2ab5fc58c99043b3012c
+Private Key: suiprivkey00f766ce05120b2ad8f3aa049c259b9b4a855f49a1817294bf7a3f007b8dfcd72d
+
+[Solana]
+Alamat: DqGDpv8T5hD96JsSxhKYsqYrnaEN33NshiCBjHyJrCAJ
+Private Key: 00222400b5556faa68070f892b68133109aa185372236c9e99c0d3b301846a24
+
+[Aptos]
+Alamat: 0xcc1b4aaf1528c6eff9ba215c233d26bd5ca4b73126195716c4e9a28789f35c64
+Private Key: e252f584fb5b1207b925b969e3876b824b3cc4bcc2746b2f38dca7cd73b66b83
+==================================================
+
+
+Dompet #31
+Mnemonic: time trial vessel sea pyramid ritual glass cycle lens midnight barrel subway
+
+[EVM]
+Alamat: 0xD5084a578f08e1db9f380AdfD523A332B7523ED7
+Private Key: b43e330c61bc9b33a8dbde97255aa04cf8162a5de820a02675fd54a7a19e7220
+
+[Sui]
+Alamat: 0x7eae083ed30d7ba1a1dcb8ad7baa48bfbf33206811e2d0c672dacb406c67124a
+Private Key: suiprivkey0066d93c4d10144ed5d930711ec7c0a754f0eff6a0d353271e4066b3452d016d4b
+
+[Solana]
+Alamat: DubJUURFxo1fUgDmvNAUpuKD9QwgZJwb4n4ouoCK8mQ2
+Private Key: 7ad21ecd06798ea577815a995dd69c66b7bf094f925e7b9defdd451ff04d1f67
+
+[Aptos]
+Alamat: 0x5192e64196fcd83e581fca1cc79629deef30515cefaf1faf32ab8622a41dce92
+Private Key: e24d43a6198dbe6a7307bbc768f4ece1f16484cb09e480fdbaf6edcd261d69fd
+==================================================
+
+
+Dompet #32
+Mnemonic: brown patrol into parrot permit venue tackle amazing wrap pig dilemma mom
+
+[EVM]
+Alamat: 0x99BDe5291fCD27c63dD80deE655f0289DD07C9BE
+Private Key: d7d3d9b1bba616102b63ebf298b212860c705f700d85298f5d82b428e536b054
+
+[Sui]
+Alamat: 0xbca82fac91decb4e2bb3056b4bcd97dc388a987895492b7404dc9bd4a924ef03
+Private Key: suiprivkey000c0085ef5ee38ef6de317836d2eb83696ca2b9ae002e1b1d7ee21e08458e4ad2
+
+[Solana]
+Alamat: CD94PPeMuJcPFNvXKWi3z11WE6nRgj1Y8xFNLDgzUvvt
+Private Key: 2723664cbf55c5f1ab867831878f5eee6308e64f7bf210351e8f8d8bde2628d4
+
+[Aptos]
+Alamat: 0xfca29b8d852e9e856f95878cf23135df645c874938a82b356631d1964d98ec60
+Private Key: 63d79f697c5928d71e3b8a64c6fd7c995a5a4363dba194c9127f701252b8e963
+==================================================
+
+
+Dompet #33
+Mnemonic: memory cycle ticket dog trend satoshi expire pyramid into appear patrol silk
+
+[EVM]
+Alamat: 0x8BFafDd1E68e2fe885990bec6A094609D2aCC1E5
+Private Key: e7d44d21f15256e4ea6c2197c8948a46300c6788fe798da7354fa75679af15d1
+
+[Sui]
+Alamat: 0xb0791b80ee20bf44f11e905fa91594103eb0a8ddefff71198e4ac66e7bf88b1c
+Private Key: suiprivkey0007345d9c4212fdb2eba6c39386976da19b544fe5a6da69a58c18e9a39658f420
+
+[Solana]
+Alamat: DDta8996ZP1yTY2nignZpfwoQvCbEWdRKghbWHQjeRPQ
+Private Key: ecd8f6e506734fb23413dd43d4dfac070fecdb325f93d5cab3796fe747033ff4
+
+[Aptos]
+Alamat: 0xc1ea3539ac48479d5d79265e980105214336dc9229209d1ae266365e67767d0f
+Private Key: a730a5d204a24341ff09302068223ba30eed3275e414de020691dd1d8856717f
+==================================================
+
+
+Dompet #34
+Mnemonic: fix park gasp lyrics disease boost come junior exact metal rookie weasel
+
+[EVM]
+Alamat: 0x8bf0c0078E940FfCfE864972A934f2802EF70AdF
+Private Key: c416a1fd9688dac7bac674f249a369542e2a682366bb745d710b18ef6f090f98
+
+[Sui]
+Alamat: 0xb591bef4eac77d6e2dfc8f6139609acc057c0557648276d03bafa0fdaabcd7b5
+Private Key: suiprivkey0016d9f00c07aff91333eceacc557844ec14e01865af2d96f9575d0b0652af6e5c
+
+[Solana]
+Alamat: 5E1g4DKUcFEEmw7Wzhv5qM7Sv7tDYELeJvFraasUL46g
+Private Key: f747b72f87b792f7aab45b686624f46931fcb6faaf3265f7b52e48a473857b72
+
+[Aptos]
+Alamat: 0x9b4bf0392c28536dac26ea43ef31635877a8f59619fe0e4aeccae7dc89f79330
+Private Key: 589b436bf0ee2ac5e6e2051ecdb1b61c20a88d1f68b113fd3ba8cb615fb70e76
+==================================================
+
+
+Dompet #35
+Mnemonic: east okay bind fire coast pottery leaf saddle tissue era trial census
+
+[EVM]
+Alamat: 0x2E59Df66742d4579d960d22F2153363F41851Ab1
+Private Key: a78b8859d718bf5b98cdefea8db7875f76d1ccccd8b42b52564054b2725ec48b
+
+[Sui]
+Alamat: 0x24812c38c5eabed3a58a4c1a380eeb76a7fd57b05bdc9ac5e2065590acb07a88
+Private Key: suiprivkey001685595ba64bc419b28cbba1d1e5dd5fbd2dd8835d1bd69660b1fb9dc346789c
+
+[Solana]
+Alamat: C6ndQFy8b2xYkd4r4PzXFmEWRFiCvvQVt2wFE5dachuR
+Private Key: eb1262cc5ebe670ae5af15d22bde596e19f52a4c169b392743c1309b8919fb47
+
+[Aptos]
+Alamat: 0xcb84276a649774ab49f1e5d6509593f95133f9a8d3e022783055c7f12ba38ba1
+Private Key: e9012d697a1d3989cfbc8b2de36475c659dc721844f0cc9ef6d5d480cce76617
+==================================================
+
+
+Dompet #36
+Mnemonic: antenna coffee sweet basic broom globe shed bitter decide oppose solution funny
+
+[EVM]
+Alamat: 0xf9C818A9266b51324622e065644886182d3EBf81
+Private Key: 863629330fee826bf9861585b705adc791998e99c9630f441bacd409f0ac3bbb
+
+[Sui]
+Alamat: 0x1873737a5f7750a4250afaff4676a4a72a3493874a685fe922bb270d94a0f0cb
+Private Key: suiprivkey00254d7e5ccb9d3a17b244ef1ad31dbc34b99709272d43074441e6784f662abef8
+
+[Solana]
+Alamat: 8kefUsLdqAB7akMhLn6AjrPy1svrGwUFtznBkAnvXVvn
+Private Key: ef2231a4f81e10668e4e74b3eced953e8bda884f307b410be9fc20830e014d30
+
+[Aptos]
+Alamat: 0x718fd8fda50a9ffc2422e226a22b61c96488541396798495da0e937106260e29
+Private Key: 1028966ffdc924cab97891ca23998314c6674060de4870c10ef753cfc654efe1
+==================================================
+
+
+Dompet #37
+Mnemonic: bulb jaguar sun rain town abandon pumpkin twice robot head apology bone
+
+[EVM]
+Alamat: 0xFC5e60f528248b548E378d25e69f29dd35544D1A
+Private Key: a414ddc066048a5bfd11cefea7e9afdeed587cff62af07283293f627941caba7
+
+[Sui]
+Alamat: 0x9e993926a5f9bb272fbd24fcd6aa4f126d1d9dbecb8ef2c07c427f70dd7cca49
+Private Key: suiprivkey008f0e73c97318241e1c2cb3274fdd54367be70322d1f46f21f9c458b6c6f22641
+
+[Solana]
+Alamat: 3RNtSGWe4cyx1nQyLwDqTKHFx2Rd6jod5gCa2uv2VFaJ
+Private Key: 1dda4b7fdcbbd447c57fe71d86cd45c520a0d46163ce3cf13a82b7ecd122a903
+
+[Aptos]
+Alamat: 0x6115d5bc8abca283ad3d238f17fc0d9a99b6d15e97c3cf4deadfb3dec9844052
+Private Key: d64550afd1fa62039911a9d0418ea3673ec90b4f7977f9833f5ec60338d23a27
+==================================================
+
+
+Dompet #38
+Mnemonic: stadium inside capable ring circle push claim evoke suggest side odor expect
+
+[EVM]
+Alamat: 0x8f206002D472c1b3679b8AF0D52A97332aebDaC9
+Private Key: 492b7f3648263d54cb884682ac5aa97a9ead32543f293d34259220c1b1ef9855
+
+[Sui]
+Alamat: 0x78798725ee5791bafa087f5ba5347c397771b9295b9f97778ea21a2f15aba9fc
+Private Key: suiprivkey00fd83eaa083bda94f0956309bd8b7b0625c17eafa02f96b3def57f27027311122
+
+[Solana]
+Alamat: 2HeXeWpRmM7quSBhHrZJeU8eRBz98SCosYY48EaU2vPE
+Private Key: c491a2d05974c83e2fed9662e0253664c7a37b2ad69a14f52b0adb4c8b4410f1
+
+[Aptos]
+Alamat: 0x206cb6344f1aadd767b86344647624680a5e1e4fa2fa8cf055718a39995be2c4
+Private Key: 1e0efedb85d9dd071b1dc2b43536e666a386cda42961d8c2889adeff44a2217f
+==================================================
+
+
+Dompet #39
+Mnemonic: crush seat jar absent involve confirm demand gossip symptom width reveal antique
+
+[EVM]
+Alamat: 0xB17D059c767bd41152a27478095Dc9bE3116F594
+Private Key: ae9ff0a9e7ea83950bac8d2fcdb64be08a99a9274643985cef240a7e035c3436
+
+[Sui]
+Alamat: 0x16be9a5d14e62a04e8ac892c1a15cf413784fcba0226572529dc679897e66a4b
+Private Key: suiprivkey0030c34fc1ba2bfabe65e7a0009b26d6e106311aabce1cb5c505ba00b4a657a528
+
+[Solana]
+Alamat: Gohmbod9B3ukkB33eHdZMmQQTegwqmWJ51oiENMzKGue
+Private Key: 9ec91e18a5c11995f37252d690bdc0750b5c4eb66d69304ab84f1c30bf7a875c
+
+[Aptos]
+Alamat: 0xd6dd1303b84330f1e3fd0b920a68e923df32dd0042627360e121c4f5c9576a2e
+Private Key: b3a8f15fbfc2909ab6613133781048cbc443e7bec7075a7e4f5df4a47913bc1d
+==================================================
+
+
+Dompet #40
+Mnemonic: spider athlete eager abuse net love hazard amused please muffin taste ethics
+
+[EVM]
+Alamat: 0x2e0d9e873B3929bE911282D1357A3d18e6d30bd9
+Private Key: f9c89e6739276c6156127153beb17ef86af00b99a28e3951df219ab69c3a3830
+
+[Sui]
+Alamat: 0x8affabe3304aa5b3d93247f680237f9d595ed481f32f15e3eb134d0e3d0d85c8
+Private Key: suiprivkey00efcd39e7739f1f731b7165003e382604097c81728e68f7f84215ea67c40da57e
+
+[Solana]
+Alamat: 3xgnzwXZJE29D7w1CGwvTUNGQC66VF6e7j5RiQKSgguB
+Private Key: 054cfbaa42ed3c6bbb4778bab4affac836c9a884b65a9ab685db381b735aea85
+
+[Aptos]
+Alamat: 0x3e361a1cca37f4eca9a10ae1519562d067bf63e284d3b0a6def501b704453119
+Private Key: 712a70c74d5f2e935a3d74be3bfe0c35b3b14ca438e5a4c468be97313c6d3437
+==================================================
+
+
+Dompet #41
+Mnemonic: online abandon corn fury shoulder mad comic relief boy cheese salon burger
+
+[EVM]
+Alamat: 0x08aA692E9E0F46c35f6f52dD30f70Ec4cCb0ded6
+Private Key: 7e627dfca86b96d7e4a3b33e646926cbc3abef4f8d3e365d6c3b2cf5cf2aaa33
+
+[Sui]
+Alamat: 0xbe6ad9cccf0cac5c0c4148ba42d2e8691de2e574a72dc1fd0d4e5c9ff9a40d3b
+Private Key: suiprivkey00d660e089b1f5202a4cc246efc73b9edcb98c13cfed7be982dc263ead7d49abde
+
+[Solana]
+Alamat: F7JCJcPhjFtHyQAjouzkm37zSwfqkFKkqNeJBgpZzTWU
+Private Key: 39f3fb720fee25faf5746804ad11a985c59f71361ee655824d1523ee4c67c755
+
+[Aptos]
+Alamat: 0x5ca345897b3fcd0b39632e6b80808b254db2839ac8f9a17b6b0aeaca2182accd
+Private Key: 5840a39f8a909237df64901faa14ac1dabfd1257a160f06f125ec7810ae379dd
+==================================================
+
+
+Dompet #42
+Mnemonic: hill huge glad episode napkin wreck cube medal shed toward topple screen
+
+[EVM]
+Alamat: 0xE0cC34e36e6B9b0be2147805C8E314dc95939a67
+Private Key: 44fb434423692d8c17f161de702aff8d631f341280046fb10b90ea4485dcf77c
+
+[Sui]
+Alamat: 0x960b5fd0be362bcc147d313cd00af6d7c4048570e49025f559f1b1654f497049
+Private Key: suiprivkey00016415c434441f6d13c3b100fa8ca60a6f56f9f8b74d7b1382b781276109bf77
+
+[Solana]
+Alamat: FKdoRM3tSvyp6iikh5dQsCrmUfFa7oXdK1iXKLXL9G7w
+Private Key: e4a332555b0e1e3fe26918afbdde458d3d66eca9d43178f8cd1fe1b7b9a7c573
+
+[Aptos]
+Alamat: 0x2520e063ab734108b08ebcfbbc9218128fb0e2502165228d025924f52cbb2b19
+Private Key: 2fa2b273943afa5bdbb8bd333ac32fd327a6f959d67df789757673e61c1d6b75
+==================================================
+
+
+Dompet #43
+Mnemonic: unusual clerk dinosaur borrow layer desk hip pact truth cloth chalk tray
+
+[EVM]
+Alamat: 0xaa9dC51751Ed7c1052624D518eF52a79523D76cB
+Private Key: f2c2361b59733d4578c46e2d0c610fa2e1f7972b8dea64a2d12cb7c00bd5cd75
+
+[Sui]
+Alamat: 0x91ed3da2d766d834fcaa83a9fd930fda9fb29d08cabbaa6117a729ae236c707f
+Private Key: suiprivkey001029fa20d90005c2090cabff0065457971288852bac20ca7894c2eafe17a424a
+
+[Solana]
+Alamat: 29VS19D5GK4r2QMc9sLJwyf4zsMapR4K6gn4iMbhY68h
+Private Key: 55868fbfedfb6002fde9bf249bf78d9b081a0b75b7f4e7ecae647377554677b0
+
+[Aptos]
+Alamat: 0xfd6969757dd38d7ee1b1a25c1369028334086145a67a5f001d02c189cd2ce423
+Private Key: 242825b3079a49d426574d99591d5e97c46dc3cb5e80c213b2a7eb4c8bf01686
+==================================================
+
+
+Dompet #44
+Mnemonic: butter charge entry moon toast quit select usual tragic upset first garlic
+
+[EVM]
+Alamat: 0xd4a8b8bE6b57eA6590EA250086D4B3eC923D67F3
+Private Key: fe3fa75e8558d180b828273368fa47751465ab81b1d6d9ba710e4e4a3df2688d
+
+[Sui]
+Alamat: 0x4dac434cda7901fada214fcd5f9d0eaa41c47667c0494915da2dbfffef0e2deb
+Private Key: suiprivkey007181c115d92cb8314db2806332e8506dc82916382988bbf23f6252355a5df767
+
+[Solana]
+Alamat: 3xZGtPDsxqFrtD7Xt4r92XJ62u7mdwrhLfhgFRRWWgDo
+Private Key: e262b8db8256ea219ad4299d2d21037323320c642a2f59c74ac3bbc6cd282a01
+
+[Aptos]
+Alamat: 0xc2c0e1ab939d758772f57c69e532f03c0f0f7355c24978b862906ef6cbfaa501
+Private Key: 12b3435a2a2326f4208f46b08f9ce4359a39cc8b64307effb09cb7a814a3b1a6
+==================================================
+
+
+Dompet #45
+Mnemonic: common slab minor taste syrup alone frost near jelly electric nominee extra
+
+[EVM]
+Alamat: 0x8a018f9DefEbd50715E805C8C3182290e02B0fFb
+Private Key: cc05543b5972a1a7c58c11db478a4463d69bc0a9154ebebc5a1c1c98682c4c18
+
+[Sui]
+Alamat: 0xbaa6bfe0e36586b20f932b092b2bce1a5525724300a6713cfcf7adb7ea9a276a
+Private Key: suiprivkey003f2bfa2be595cbd2d4e9dbc750c6ee9eb8749f30fed820e65b498027709f014f
+
+[Solana]
+Alamat: HP8KU3wQjTfmgvHmDtaTtgR8z7gVa5BNyq4Bv79TLC2m
+Private Key: d69cf7744edecb14237ebb4413c190935545671c3f590be6ac72ebe73db0d363
+
+[Aptos]
+Alamat: 0xd5ad8e35890d57da54b477e21097718eedbea8b0dcf441523f0e47eaa863e09d
+Private Key: f05d67f411864ec46c5b8ed7ce560d5a9ef4e7672b8e533a625fbb322d7a6664
+==================================================
+
+
+Dompet #46
+Mnemonic: include ostrich flock cabin used lemon mistake radio valid dutch cloud secret
+
+[EVM]
+Alamat: 0xe3852316Fa9fbc809394D53AA77aA07a62649e90
+Private Key: 795976a0e295182a85ff2bab1c70d2bf6f532817b29c4c4b07d218131c121fa2
+
+[Sui]
+Alamat: 0x267ffb11a7e5b8f34e69859e7844ece2bfa7d3eacc210c995410f2e61e364e3b
+Private Key: suiprivkey00ffe95045e82d653cd33aa6bef4533c299c05b95b2147e664d5a5113a7f2f1355
+
+[Solana]
+Alamat: Gm8zQHtx7WXHmNdTtjRtpYQzrTWmQEF4KPDmVy5yU7Qo
+Private Key: 522468ec202c49197596a3bf909d289a15a51b1f0cdee18ca1d30eb9f413691a
+
+[Aptos]
+Alamat: 0x9fbdb076bf52d861134bbd90e535bea27eee1356e0d3c72775fa5122e5363ca2
+Private Key: 1d6330c12e499b729461dbe0b00a20b8a510b26b839605243272386104a9085c
+==================================================
+
+
+Dompet #47
+Mnemonic: cliff trust mushroom delay rug access cable west salmon share meadow web
+
+[EVM]
+Alamat: 0x213C4B626dC2Acea5df4983D6C42E81229e0D38e
+Private Key: 68533a8b4bf78669c1240d9135a22865919e8219f26d227e20f43c8f6b08c5e4
+
+[Sui]
+Alamat: 0x1358f864af3264d325ac30387a695681112b6e799ecc52d80da7d8fa813f5b3f
+Private Key: suiprivkey00ffcf541a43f08fba8007eda20fc0c469259e3ae98cb193b980287b2950d47ea3
+
+[Solana]
+Alamat: A14EjfhhxnAJeFDNfCsNsLgnq5VyRiTCbbe48979Yf6D
+Private Key: 93c1378523a857658a0570e1f88a977d9b8a8f8d52862c4c383fc78e0d27b87c
+
+[Aptos]
+Alamat: 0xadf2e504b73a8ae499fecef7aeb9e7e7ce6e1a72d1dc711dadadb98bd2f7dc1c
+Private Key: 2b8cbd2def6b39d9e2de8755ed3a245aa19c91cc092acaa9844b8cb4b3fda5a2
+==================================================
+
+
+Dompet #48
+Mnemonic: scissors indoor essay elder resource today fatigue hand genre stairs riot attitude
+
+[EVM]
+Alamat: 0xe8B60EB0f2678269e98B11DF206A7c69D9863E9E
+Private Key: 5779e6960fadd91cf96cc8bbd4c16341e93392b7f1318dd827873868d53a2292
+
+[Sui]
+Alamat: 0x1b5aa6fdc11f01469fba7acd9157d7453630e80b3a9bf6d576aa158d07ee258b
+Private Key: suiprivkey00976f0471ae41e022130323a692feeeca11f4fb4a47785a9c8a27ee47ccfd4777
+
+[Solana]
+Alamat: DudUToUK9hN59PiYbyG41287dfEb3SPCWMJk9bLnBuDc
+Private Key: 04ccf5954ded07dd76848e3a9ccb41c5e9b6d368ca8ce635fd41b1596850a7f2
+
+[Aptos]
+Alamat: 0x9f71a21db0601f9b521e53334698e223cb95cfa6c918b7fd3d5c2f4234309908
+Private Key: a065988b9476e809d62e3cf7d5e119038505857bd6edf8c323f598d0bd5f7e53
+==================================================
+
+
+Dompet #49
+Mnemonic: poverty movie ladder situate unable clinic love solid image swim recycle wine
+
+[EVM]
+Alamat: 0xeB6A5fbA865Dd797e3785F7c72AAe66a7810fA86
+Private Key: c5cf2dc5a5f369dafb9892585f2b7361a3f41dbbe42e0d3064dbbb90387290b3
+
+[Sui]
+Alamat: 0x74531b9cf8183629db3f739275982aa16e1b6155d8d5258a1b8e26c5554bc5b2
+Private Key: suiprivkey00277c17f6e85f31429ee475b2986012183bd1ae7c08c9fdf937bd85ed68261c8b
+
+[Solana]
+Alamat: GZwpmEArYSBBuQxjwLhgc2qZq8NqybKPKLUM1i8eSqVG
+Private Key: 979341e7c2a7e9354ded62eb99288f9fbd0f637620644817a42d37fa9b235eef
+
+[Aptos]
+Alamat: 0x7e5558b8e8838e0485632d8eede610a2bda812aa2cbd8753015e953d932c087c
+Private Key: d07ecff50aa161ba81831dda944ab566370ca60ad25f01a5b2a978f85bd857d1
+==================================================
+
+
+Dompet #50
+Mnemonic: scan loop stool spot symptom despair idle battle enlist sand scissors hazard
+
+[EVM]
+Alamat: 0xE5356f4922bE02727538bAF10974a07c72F74DF5
+Private Key: ac10145ccedc9352d9e1c342b58103e1a449c1fd5b774ee3d2828da27e45249b
+
+[Sui]
+Alamat: 0x160ad8958fa83edb3f6ece9addc9cb2010e7c8fc6daa9b7422f2cfcf54ccb441
+Private Key: suiprivkey009309347efde98720dd0c6ac0bfc398b473deea07564021bd975caa17b7750e97
+
+[Solana]
+Alamat: AjU244abNmghFuy9CKT7UfARhqxKntS6Zv5AmQmRkecT
+Private Key: 30b34d9a0b8c4985f8c36d971f2fd5d27f371727aa08a4d5ccb923fbaae1e226
+
+[Aptos]
+Alamat: 0xe62a9211f6fd530f18aadf88a93ad64b51de92c83293498ac93ab4c9ed261440
+Private Key: fa0bc0eb12407f412502e9c37fc5714ba0cea4468fb692d605c2720de4765f7f
+==================================================
+
+
+Dompet #51
+Mnemonic: chicken pupil away beach quit tail unaware skull aim early history pair
+
+[EVM]
+Alamat: 0xfE33daD1d3D39c9c0e62dF11aad322385E0D8a83
+Private Key: 9bd3a87f998a1318ef9b4165d23d9b2afd893fc18640fb7807dc943f4de5baf7
+
+[Sui]
+Alamat: 0x06f0eb475c93e057c65d600b84df57e4349d2e23becab58bd32c927c4d11a335
+Private Key: suiprivkey009d661caf9d4e0fd7d7d27b7679924f8aa163064667c7113ce6b830f7340fc886
+
+[Solana]
+Alamat: FtKu3c5f1skcr55GFuuhPA5o78qU5x9A21tuM2zVaDLS
+Private Key: 2a2633f2c6e3b6cadec7d6a9a901144c68b856b69b4d9c204b63a8b82dfebbe1
+
+[Aptos]
+Alamat: 0x71230d1262aac5004adc5dc2a5885284a4d1b84a3ea93fd8d3c216d0a4fb007b
+Private Key: ec41c5846ee5029eb6b1fd5130451fe1f6f8fc2181bec8f36cbe5f4de3b17db4
+==================================================
+
+
+Dompet #52
+Mnemonic: danger october soccer cheap attack flock march offer similar security sea utility
+
+[EVM]
+Alamat: 0x4d78876659970deCdbF0a079d01e8cDe32252B5C
+Private Key: bfa4aea9963e2f776902c2c5ce36324a6d47dd8047f4265b84fc1928443147e4
+
+[Sui]
+Alamat: 0x3f0906a5bf417d2d2b58aedb92a307c8e8ea38a53bba4b6114d15da9555f8870
+Private Key: suiprivkey003dffd478be1000c8e4056eaad8270e1d67550f8d27925bfd94461e7779ab5289
+
+[Solana]
+Alamat: E7eGHsBDfiBnXLKhLc3DhQq3A81eEcjZfAi7LkrqVYJs
+Private Key: 8a55b01e1fda91432eda812ce8264c432c28098c1a56c99a9300be6f0009bd39
+
+[Aptos]
+Alamat: 0xfcd01dd0a5075b6a40342046e77cad2663feaff3991a3088d2bc934cb1a7e58c
+Private Key: 80fe3a03b18c7b30ba85dd8599b72ece00dd9bf687ee7034a87cee401c7fa96f
+==================================================
+
+
+Dompet #53
+Mnemonic: indicate idea cover devote measure economy upon inform conduct hope order orbit
+
+[EVM]
+Alamat: 0x1a54Eb01b5a5c3b42b3C1D23976f9fAffD4a6979
+Private Key: 7d566ee62b1de62cdbc7141b492d6f4d24843af0ccc1bcc609fb01e03da08888
+
+[Sui]
+Alamat: 0xb13461c58d8a06550908b17ecb5c23877c7e3ace54f2bfebd1a6cc8da7c0c012
+Private Key: suiprivkey0051f5ebfcbee0a5cbe2b869ad8461e911a928dd7ce044f4e7bb2b462b2e2fa86a
+
+[Solana]
+Alamat: bRvxz77LBbChR31WdWFUSSCmx81J2eEixAWZxxhMRa5
+Private Key: 52a19e71209c1512fff21c6c4cdccb11a7462e675b6922e8f642071f4f349fa3
+
+[Aptos]
+Alamat: 0x31b6da9eea947dd9dda7156a6664f4857e9c6080c34a26659b8783aeb0b6daeb
+Private Key: 29a54c57d0f2e625d7b532b9fbd964879bcde2b2dd5ac14e914474f7ff272716
+==================================================
+
+
+Dompet #54
+Mnemonic: century fix gift road crunch avocado region beef regular feel balcony crystal
+
+[EVM]
+Alamat: 0x8BEb5A4EC9354303f5a92BB1BF675bbAfcC98530
+Private Key: 6dc7c22f6a08c4452af17f2f9b63e97bf66d97dc9217b9198af0c2ccfd5d1fa4
+
+[Sui]
+Alamat: 0xc42ab330a8a809c0f5b8c2afd83c07ec44a1bc57782d8475ecfb555e430da3f6
+Private Key: suiprivkey00b736082504d6e134b91979a7e922775f1e9fcc89d2d7d71b83abd0497ab730b8
+
+[Solana]
+Alamat: H4XR6Y46PmtMrtTfPcGLGYnjZ3sXm3SnDN7ESyaDeD4s
+Private Key: 0af62a2c0874dd7e2f6483afbcfcc52bd58e4d01fca74ae15649298a7cddd6ce
+
+[Aptos]
+Alamat: 0xab30f14ef5d9994c050790b99b25bf52e326952481a14ea5d06ea341ea17a5a7
+Private Key: 812b2fef5bf0b092012925afafa25a92848dfa34b9474e6f62605dda3de8db33
+==================================================
+
+
+Dompet #55
+Mnemonic: border stick rifle power dismiss execute swap apart access cactus axis since
+
+[EVM]
+Alamat: 0x4CC3251b41A220577B6Ca356aa6dEbC7DbC03aE9
+Private Key: 06c770c1f37ddc9ab91337341b2be5a7bfe4440e75b6145059387dc34bdee290
+
+[Sui]
+Alamat: 0x07a7e2de48d1af069c8758ba59b0636d0c335c70fc2d0ed3d052ed4234ec0f5c
+Private Key: suiprivkey00c7ad9611f396ce57514a94a5d9a3c851abee9578562338715d2d440942d6b862
+
+[Solana]
+Alamat: FNusvsUrhCRMSWar2hm9EaB3K1zZEvsoZqUYqGCxCidC
+Private Key: 03fa910b7e260b8fe8cb1d768122ec1a1c7148079d0472d5bd83fa144608c2b0
+
+[Aptos]
+Alamat: 0xd82f80495315d700d4493798d02bc7052b537740d5be42f9e514c5c902066d12
+Private Key: 377d25be5f9e6bb31a86be8e5cd9f1ec719f205eae0333dbd1e31861f81e29bc
+==================================================
+
+
+Dompet #56
+Mnemonic: exhibit now sport argue draw depend math enable various world equal edit
+
+[EVM]
+Alamat: 0x33C68e8cc7a87EC2e10B5e6E424266Bf25F08d49
+Private Key: 17c0498ebcc04be2a5906512b12df2a8f266603da2eaf642e5d4029e3de071c2
+
+[Sui]
+Alamat: 0x1fc6f9ed64546529410d9334b372d903b31b05c56791468946c61f9210e6252f
+Private Key: suiprivkey0043645d9ade06b9dd0c49cc4fb309c66167953c5dafad1033b1a90775dd93691b
+
+[Solana]
+Alamat: DLQFbgGctSeHvso3GDezhSR1Jd928Wr3tuRM1KMWbETE
+Private Key: 7d6d64ee250c12b3e3a77e9afeb6166cc8187306ad45ff20ff245a310d590f6a
+
+[Aptos]
+Alamat: 0xe942ed0fd5ef852f43fac7c989167ae972ba5842b4fe30f739952e87a69fd69c
+Private Key: 6f4940df146c1af1ec4b9d4f5d0b629b2f351bf67ec3bb6be4985f3f1390b739
+==================================================
+
+
+Dompet #57
+Mnemonic: silk camp know index gasp penalty isolate repair join figure whisper artist
+
+[EVM]
+Alamat: 0x72CE0228C6DFdE06928E8BfEa6c1120451F21729
+Private Key: 03b33b0434737595de7c0be6175f52d0c896d2e9625ab21a4921f97de4a3c5a1
+
+[Sui]
+Alamat: 0x21cc34ab78e1e8594f0552b998f6c680b4ffda72421f0fb6416bacf008ad989d
+Private Key: suiprivkey00abe5a5b119c0d6804a26e90cdeed962d8f5469981fe089392c488aba02629995
+
+[Solana]
+Alamat: HyruFjqUrJQWoCeVirkXgkdVysx37o2Rpt16tsNDvzsy
+Private Key: da8df87c7594596ecd62ee2bc1b8de51d51e359b35c8ae9ca5708bf4a20106d4
+
+[Aptos]
+Alamat: 0x24fc054811612701b6e30b31bacb72c7bd2576d00660cd08a4c0d117508c7d88
+Private Key: 44b4b1ff81495cdfdc91202b20c2289d0efb41ffc0e0114493ee84e4d75cdece
+==================================================
+
+
+Dompet #58
+Mnemonic: puppy silly coil wool latin enter position tuna salmon alone stomach edit
+
+[EVM]
+Alamat: 0x00F181a0Abbd0C5EdCa027148344E31cD7B9051C
+Private Key: 12c2db80f6082c41fee731db27782aa63700de25d7ee69e0bf8aaaf7738ac7a4
+
+[Sui]
+Alamat: 0x8b7319882c96b834d0dd764e1ed4448b33b058f580472b7d2c1b0ecd55afb1da
+Private Key: suiprivkey00b4abe2c4d30edd480bcbdf676c597dac5316f422192d699c1633f38a5b863036
+
+[Solana]
+Alamat: FEn4BrNJ2RZ2XMZAjCuS77yxkWQLYbchRRA5UWQdoXyQ
+Private Key: fd7bfcdafaa7f0ab50f87f61044385fcbbb4c00a2235c4bb13b535e440da524d
+
+[Aptos]
+Alamat: 0x18bfb4322b2bacc611c755b4ce0e81f92fa0011b0253316554f0461b6da3f6d1
+Private Key: 5ad215092ed7ce18cafe0d02b62e444e36c2b66d615623fde96c917215d7a11c
+==================================================
+
+
+Dompet #59
+Mnemonic: battle above knock universe pair debate winner language describe timber casual bunker
+
+[EVM]
+Alamat: 0x419f3e30C54308E4f04Fd3b0919b299Bd8e62C15
+Private Key: 44004b1d2e32c18f8bc8b2ff3b6f2ab7b5a23c49e6889ef917cb233e23d16311
+
+[Sui]
+Alamat: 0xd19cc09597c85414e3558c1a6f0509513b955d5c0361658357c5d91fb1965dbb
+Private Key: suiprivkey0023335d2d7508971efef768f63b9c9159f15efd40bb0708284b535797a5446adf
+
+[Solana]
+Alamat: BbHmgPwUmb3riYDwCbjPKTwNCh7TRr8Wv7ueU9T6BNzZ
+Private Key: 6bf1467bc2f8eb3a22eb180880ffcf84a44d8bb445ac07fcec794b7a1b37f10f
+
+[Aptos]
+Alamat: 0x93855f43e5bea75aac7a9b4f4d543e15d86c380f5d6bfef8995f3d6436d87985
+Private Key: c4dcefdfead4fcf72b8cd1704c9d37a821dbc9a8848881e1e42d4ad40eba4706
+==================================================
+
+
+Dompet #60
+Mnemonic: video spin kite artist occur oven shrug ugly alley oblige suit will
+
+[EVM]
+Alamat: 0xec43FcA8b2CA42213A285A1A49823A2F4F83B431
+Private Key: 57f154b70c3bc2445557c145fa26e0cf181acd796f17725e9a29894fa5c22ec6
+
+[Sui]
+Alamat: 0x945bf5a4dc25ba0fcf09bac9a75e9d4f169faf9f259820d64881b4a640c71830
+Private Key: suiprivkey0026568ef24463b176b3f42d4acd8e4cec67cc5c87aa9fd0a1f9c536fa28477b5c
+
+[Solana]
+Alamat: BpVnuMbyTjL6v1CkwTJbvtkEJciaPA6THFnXL7ESXKEb
+Private Key: c7c8fb9876a940e700edb0b679b264adefaa31066be54fc2957727db1395879e
+
+[Aptos]
+Alamat: 0xddf142d5b519527bf0139cf80e4c165025e98453917e85b63055827978121016
+Private Key: 33b92550369b44bc241473aa24ce76360c63856bb51e0e755e8b312971a309d2
+==================================================
+
+
+Dompet #61
+Mnemonic: fix account cost topple runway palm garment strong fury trip move print
+
+[EVM]
+Alamat: 0x9EEFBE6dB995E4Fb415aC79Ad78952649242043B
+Private Key: f5878d885750d6741864e44e6eb1f48fc2ca7666239bb265add7260bbd5a832a
+
+[Sui]
+Alamat: 0xd00a9be812c468fb28b7360486fbb214e4ab53e612d31aca8117a7a33dd74016
+Private Key: suiprivkey00fdc23de8ef1a4cfa3afb52698cbd57be1ab4386414e6136b773e639818feb688
+
+[Solana]
+Alamat: E4R3Ddu8pF2aPmLTUVASw98hgAJJaesnJKpnY9qswzUu
+Private Key: 581f724a2e0cdeba112efa1334fb50f7eeb688deb48e3fa54fc818d338faae14
+
+[Aptos]
+Alamat: 0xd94824c66c4e117598c88d96f00116ec45e921a97c5af7b89c73b0e8d1232d91
+Private Key: 3224b87655399707f1aef1d1e8a74512e098ecf416e78c3a055f40d79cc5f8fe
+==================================================
+
+
+Dompet #62
+Mnemonic: story south index census sting orange stock essay test innocent bridge cousin
+
+[EVM]
+Alamat: 0x722Df7d3351261D8417eB97Ee11C85E71BbA2Dcb
+Private Key: 6327fe2ed0797181117da14e554ac470d899d09fea13ba6230befb8aac6836a0
+
+[Sui]
+Alamat: 0xba6cb79ec53c853ccd4c180cfd068e7192964baf258baa87406d8a184568c8f0
+Private Key: suiprivkey0041ec62f844a1ebab922cc47aea845fce6b30b9f055f4abf42ab5950106e7f17e
+
+[Solana]
+Alamat: 3AdHhmE1p74zjsXTGZoajfwuUN4vXXuuqh4Z3M37nztf
+Private Key: 79bb1d678e0a5c6bb1ec47b4f302eb229d84aedba14ad9957ee257522dd906bf
+
+[Aptos]
+Alamat: 0xa23d56f8c1bf66c8585b9fb147983121850c9b4766d511aa631daf8e7f4aa186
+Private Key: a46bc22dbe033edfbace815933fe3f1ed3f39c31a837332a66238002aa782c94
+==================================================
+
+
+Dompet #63
+Mnemonic: leg lucky boy square normal forward verb chat pact park diamond iron
+
+[EVM]
+Alamat: 0x35f1055e9A8720732C94f009BDF4E8694b48bb29
+Private Key: 08c7051a4bc8826a3b53b0c5b16e3e12a1b6267e67668e299e8cc6b34dd13c55
+
+[Sui]
+Alamat: 0x613dbf1ec65537d6db997358c3c7eed29e5322aa6c52a5c25cf7fdbe90eab386
+Private Key: suiprivkey0060ce5fc9ff50b54915d1d75ebe627359947e144bf450618f578e1cb39ec5987e
+
+[Solana]
+Alamat: 4sHDSwJb6cWYm8zntPnpFKnK6kqJijDd98R59fD9fVsc
+Private Key: ca27728292b586a9ff11de5beea7e2617c4535dc3ed491f42de1a7473d6d60e8
+
+[Aptos]
+Alamat: 0xab0709e602deccf0371cef47d93617d9ba4493c2d0f92dad95a28524efd6cd7f
+Private Key: 9cd6e433c2489f2f7eab1826695708ccb40e27a71e8e3a7fb991bc75289cc913
+==================================================
+
+
+Dompet #64
+Mnemonic: stock very retire liar ketchup panther snow replace include embark faith river
+
+[EVM]
+Alamat: 0x6F5D2FE432a050c730Df416dD0DE4b1727D7911e
+Private Key: dbe1411d7dd1f573a7371a803b500a7c6a42ddaa88b4c733a2030bb672c6b7ae
+
+[Sui]
+Alamat: 0xee4dfdc310ce1aa86a998369d354d858c8d904159371ae2da2607c0bd282375a
+Private Key: suiprivkey0009d7cf024f683a18f406769b7fa702609021cf3905b42c9c22dea0113bb994f7
+
+[Solana]
+Alamat: 2PZNREC8ztupT5JuqK4PvZYcjbSQkNPT4pxviTPHt1cU
+Private Key: 70b4f3e2f8a94015e3c7fbeb34c47f9c9b24b64e5097a233189286749a7c2818
+
+[Aptos]
+Alamat: 0xe8fbc99de17d3c4d0f465e27bbecaa1826d380b27627402cc95ea3b023276b8d
+Private Key: e4119a0ba7cd726a86b9ea6ab3219c29b2f381ea583044ec6862a75bcbb15b1e
+==================================================
+
+
+Dompet #65
+Mnemonic: prevent peanut top birth diagram code hello brand never essence wave peasant
+
+[EVM]
+Alamat: 0x40DB7E4613014769614D7D03C173B73D029E8646
+Private Key: e1d1d9dfcc03f9e4ae321aa42facf33de63a4d40cb6f03aaf25ccf57fef068b1
+
+[Sui]
+Alamat: 0x9ccce06c5b572deeee3b6cfc0c59dcc4d9b146aa92c08797b2897ca72bb869e8
+Private Key: suiprivkey00d40758bdd548c1a373ed1d59709df08d9da8fd30c589ad8e1dd955783a376816
+
+[Solana]
+Alamat: FMNRYpmSi8uKkKDp8GkDg2M2Gikv2rRr4vS9hhfYc3zy
+Private Key: f43b5685182ee8c971c89a78097c68915e179601cdb49e43145853a2dfe9b725
+
+[Aptos]
+Alamat: 0xa1c6ece6b1ed781e2d43824b328f2bd6511e0c3e3cab4bad961c56aed60a6f1b
+Private Key: 8053a72e2558d8812c63b711a6c8f962b407a17039c264d61b943a5d313fc5fa
+==================================================
+
+
+Dompet #66
+Mnemonic: mercy false swarm disease execute lava shrug convince pink cattle cradle lawsuit
+
+[EVM]
+Alamat: 0x38017128a870F58084e67E934a6853446D19f031
+Private Key: ca6415899c9227c0fbb305de1c26abaec821b0b3242cf718d7d514805d16eb65
+
+[Sui]
+Alamat: 0xe1ee65488e6dfde8f1d3a36e557c95096d76f1536cb1bcda05da4d42580c7059
+Private Key: suiprivkey001f4a7cad967b0014cff45bcbe12aed60f166e72f5dfda2b52e96987d41e8837a
+
+[Solana]
+Alamat: 8m2pwe5XrJ1bcgUG2PBLt7rQmASCcvdwP5suy46N7Jeu
+Private Key: 89c8728ebe05b3d2d62c4fdc4e4accd739d3c0bd47ed53a86746f42886e8a0f2
+
+[Aptos]
+Alamat: 0x730e7fe79aef5c4aa769eef8251d06110c2ff63603d15707c23ba9cc3a77ca50
+Private Key: c1968fa02b40146d604e9d386dff5ee45ee29b58e87d4494c1ce1bc709369340
+==================================================
+
+
+Dompet #67
+Mnemonic: gold desk suspect copy worry defy marble unhappy actress cube setup pledge
+
+[EVM]
+Alamat: 0xdDDBc989812d3A3A89ff78AF297E63B89B393568
+Private Key: a4d966b1428bd560759ab61e81fca252229d066ae2cdeb90a18c3b2b73948e2d
+
+[Sui]
+Alamat: 0xc7b20bc8706b6a896fad309d23d12852417aa15f5992366293a1305f7c5f9a2b
+Private Key: suiprivkey007cf87b5a37522dfbc5ea2725f02ed24c726ce584dba9dcfac32774a9410b63e9
+
+[Solana]
+Alamat: DquvCswY9UGCYRDy8vLLUuWSiHYZ2oHEQM1DnhRxgfCN
+Private Key: f5a6d3810e13a00a79b5117047e0c94dec5bbb09ebee3ca576a6d0ed9745a1f7
+
+[Aptos]
+Alamat: 0x7f1c490e522f51046277f34083261197344e329264ebb8b68e3967b4d9bfbd09
+Private Key: 00edab6b5eea6cef2d249d846da0055bbc81921f1b49aaac6660964e2ceea737
+==================================================
+
+
+Dompet #68
+Mnemonic: broom hood hospital banner husband purse dad ability indicate common ordinary any
+
+[EVM]
+Alamat: 0xE7Ff1D859EAD828878Bee59783D3C103fDa8fa80
+Private Key: 42f36e400fa3a6d533a8192d4218ed27e2e93769d543b5aff8435be6c53d74e3
+
+[Sui]
+Alamat: 0xc1fbdcb646b9416a2d249219284c9c53a90990207f8d3eebd03b98f9dd4c2a01
+Private Key: suiprivkey00fcf6289067128acb4eaf73f3079f57c1c31c7c8fb4a120c2e0ce8fb401806206
+
+[Solana]
+Alamat: 6f6ctg9FePjUiXsAnPmv6oVDNWmYiNiw2PesqneKy4WH
+Private Key: de35e08da6ec5ada434fb6ce74e75c8f39b48de617aaaa39e3b9a19d401c38b2
+
+[Aptos]
+Alamat: 0xfb76dc765bd95023ba145e03021dff0bdfd56c31062581f30107ecbd894708ac
+Private Key: 70bc004386c0184f61cb48fcc3b7c45266d30e9ac1b9102ad7058994a91d7951
+==================================================
+
+
+Dompet #69
+Mnemonic: accuse jazz deer waste water settle matter wide excuse album bonus property
+
+[EVM]
+Alamat: 0xf8Ec301ad0ad3e2a799AFd204CCC45DB56d974A4
+Private Key: be3939ce0b22b8eba3aa5e0172b76ba53b0fdacb6f6f66401248fe3fff2198b5
+
+[Sui]
+Alamat: 0x4967eb525f2c3df4804d3e926ef28d69773c0a7c7e8e0dc41cfdae0817ef38cf
+Private Key: suiprivkey00a4cbbb3186ddfce06dc4ee7e84431c5de399c0abee18e12e8dfb891ece059388
+
+[Solana]
+Alamat: Edg1WZL7Ks44MPgcFDSyz8ScEJz1ejV8Vw35GUuJB1tg
+Private Key: 9d08b46dd5912915c3ab026abb3dac36090bd3809de3ad60a2520d56d4880955
+
+[Aptos]
+Alamat: 0x57e2c0e4b6f128ebd917bfb382941ed3fea06143ea701a9885576681e2d3b7e4
+Private Key: 9958c610955a7d1453f68f29364cba60b0f3bc57f8ccb963900c96e294c6d61d
+==================================================
+
+
+Dompet #70
+Mnemonic: town humor year region connect solve lens asthma gain cup annual book
+
+[EVM]
+Alamat: 0x6641b0f09C6BaE21152a6F30317bf4F8085EDFBA
+Private Key: f6cc2abd144c24101d529049059c69e2b4f2e8a16bdfe821ebdeaa790e2eda40
+
+[Sui]
+Alamat: 0x5c158df3cdaef9805c4479f5512074895484c4207ebfcab40afc840e3ccecd86
+Private Key: suiprivkey00736fafd2b41a3fde7206108e1f10f81a76a2a6a5c2b11001cf2ba6aa64cde784
+
+[Solana]
+Alamat: 3ndafi933pNf3hJUS2fP2WDpNmcWv415RpKRwocjJAak
+Private Key: 1ffea7815a0a6780f1514bebfcac72e683b61ae2ae6747cb47519750d231ca02
+
+[Aptos]
+Alamat: 0x4abd5eeaa1ea0d70e3c2b348c63f01356be8d26dcf2272acaad9b885dbd6d76f
+Private Key: 5f9d232d221ed7fec87d64b95c58b9e6ea62d5a4e26a44b0126b39ff5e278032
+==================================================
+
+
+Dompet #71
+Mnemonic: symbol domain lab prefer dust humor cover harsh viable super scale unique
+
+[EVM]
+Alamat: 0x598877Cd1ACf199899317DcCF5c3B7746Af02a9f
+Private Key: b14c471d5fdedb0a1f7a7aa32b830ff4b862019afc77fd0be54ff585e68ca592
+
+[Sui]
+Alamat: 0x4a852cb81e494cc06845310056c2aef320ea1f486724b0b7e42b79880ed39ebe
+Private Key: suiprivkey001c56411fdb0cf2ba7dc8a4b786ee4f8d9d6c4f539e21bd18a783ec34b9015d72
+
+[Solana]
+Alamat: H7fg4VP3YvcMZ7MKKB1PX5sCLKrvJTCafrHJnN17ZRzp
+Private Key: 721001f4b9855254896303835945a4b03a0ea8edd18af6d9f60428faba017fe5
+
+[Aptos]
+Alamat: 0x9dc68e35096d97a06699b76207ae1e5dc63e5bcdde98885cda11236a2cce2023
+Private Key: 005be75e0465942fdd79f423d893cac040d0b8e5536c1146c1c68d13750e5a5b
+==================================================
+
+
+Dompet #72
+Mnemonic: since valve era fatigue govern holiday hint able use marble share medal
+
+[EVM]
+Alamat: 0x1E7F623c2Ce5a51E42F2cf9257338866f5416C47
+Private Key: cdcb7e41064634ad366a2c1903f43c66b42240ff5b01465f422e7f5e78ab8366
+
+[Sui]
+Alamat: 0x62d148c0dd05c84d7b0d6a5670c86c86bd61df6166fa158b6bac9f70c037cfb2
+Private Key: suiprivkey003870cdcb85e1459568b8f831f085d0d634d88c5107aff6e0ff23690e108a8368
+
+[Solana]
+Alamat: 7YifVquFmDnZfbedVmvrhg9fc8M2bcYuTrJdXG498Pnv
+Private Key: 36346242d910aaaed1807cd7f4f01ea7e6a7f07cf493fbab794b84b1de766161
+
+[Aptos]
+Alamat: 0x06b4b972f5eb4947f9ddd203ce4bc1b7d86c3d3dd94358b6b7f2e454c96f0543
+Private Key: 360b59f6966fc126e7cf1c6127fe6f9a90921bddbbbfcf45d341446aff956fd7
+==================================================
+
+
+Dompet #73
+Mnemonic: barrel sound nurse tourist vivid south decorate forest glimpse brisk fence burden
+
+[EVM]
+Alamat: 0xFD4909Fe2C47Cb5258E2b3B79f29Cf9257Cd36c5
+Private Key: 215e4921f20a388c83f14aa47ecaa5ff8e2f4576e6221cb86cd4e390de2cee90
+
+[Sui]
+Alamat: 0x6ecdba7c260a67748d2fc9877e0bf5dcf24a356938532b2e8bf68bc5c34ec28b
+Private Key: suiprivkey00782495fb775a3cec2a97bd41e03cf9693eba15a993bf74539cde95bb72e63fe7
+
+[Solana]
+Alamat: 4BdNDbYceaRwxceu4aNMLAEmeDiZXXvvKWetaR867xXr
+Private Key: 359c74db0b2bae3708e232e14e84bddc4f7241f02c760f500bac937d79aedb33
+
+[Aptos]
+Alamat: 0xd52eff04e19a796d35acd3b367c5e62936eb97b2f74840907128b254c0a29488
+Private Key: ade405f04e68ea2295bd6e0ad3bc0851f86b0b8f449ec2420451958b527e2ea5
+==================================================
+
+
+Dompet #74
+Mnemonic: image east door more blossom coconut regular digital rail sword garage illness
+
+[EVM]
+Alamat: 0x9000F0B1B28646c99EaE6DA722B9Cb24033E71B9
+Private Key: 78399c9e9f911916aa1e7269f45f4d2c2de6d7ab22a61629353fba2e6814a3da
+
+[Sui]
+Alamat: 0xcd3f08f68f6ac0399453b8e28380b280a683407e50f8b28441e63dc48d94c898
+Private Key: suiprivkey00231cb00b78ff8c76f3967e38e8d155ea676e1eca24f210b20ddf7056d2b319ad
+
+[Solana]
+Alamat: 6X6aumU8LB28vWLyq6dggZZCPnoFCJ12Usw56JsEDbJ6
+Private Key: 334dde9609336043230b8d2098c4c247f601e10118f6c06daa4d6335bb58512c
+
+[Aptos]
+Alamat: 0xc6b32fa1e4f0d4a83484d9bf0da1be806f94ce8cbc731158e0e37b081b3ffa18
+Private Key: 58e33dae4b35393c88e3c6e90118dd726f6c6dbb5029bb869ba0ad6d1a9b8a14
+==================================================
+
+
+Dompet #75
+Mnemonic: soul pistol vicious above mimic turn add retreat dream evidence stable supply
+
+[EVM]
+Alamat: 0x9F3e91bae0c9cB45BbF70ad4F21c52EE17aae9De
+Private Key: e5e9b224eb28265d79931ef3242362cc4f2a416a6b4aee1930315051136c8d2b
+
+[Sui]
+Alamat: 0x6acd016af52cc7d3d0a974b8635873ed0599c397505d3792031a392875423acb
+Private Key: suiprivkey0020dd66a23d3cd679d1f4024b48624eb9f7288f1fa54208b2a06e9c0d3b4f8573
+
+[Solana]
+Alamat: FGiUk1ScXGLK8gsSu7dvmENu5onfUwrGwgSwMWeoHuVJ
+Private Key: 03f6e663101e90b327f5c16625138731c59aa745fdf9d890f3d7e9f468e01075
+
+[Aptos]
+Alamat: 0xdabc06e678f2eb5b96e3ddf2b8a77baaab4189fcc2801ed8555d24e18b0da667
+Private Key: 79d51ee60d5641b92cfad9e156a249ff5f432f8fb68cca574c34b299e05cd919
+==================================================
+
+
+Dompet #76
+Mnemonic: prosper follow clay skull duck please initial link pupil garment together then
+
+[EVM]
+Alamat: 0x7a72eF8e5034d122E85f952eb465b8f92aFfdd07
+Private Key: 289551a7f83ffefb0e6a38533f2dc9c9b6bddf2cf44e5208dae2f362b61c80b4
+
+[Sui]
+Alamat: 0xf832eb5f94d048358823af3ad4c9f1ab4d884ab288fd14a316b5fd210c241f21
+Private Key: suiprivkey00c894ee6e78dd446a15035ea6817aae73c6d1951c987bf226c9a51fe6635c7ea5
+
+[Solana]
+Alamat: 79BWYsvRHriP1zYUwfoy2L8kbh7HaUye9FeKsL2WSWf6
+Private Key: 5a1f72620c1a0e8aaae36856377f15d586532f44f06b1d9dff321fb4bc1f8360
+
+[Aptos]
+Alamat: 0xfe7f739f050e040b01d26cf77a6d551e777a47f23811ae07d0bfa7fdd1639ba3
+Private Key: 5072e1efcc2a223769d51435863cc5939b6e7c53e884bfdda57c9e198db996e7
+==================================================
+
+
+Dompet #77
+Mnemonic: punch pair meadow gorilla fold clutch rely hill sleep river fatigue library
+
+[EVM]
+Alamat: 0x8D1146628F788c848C1B59fA754E2C4924014A9f
+Private Key: 78795c0f10392719420ca72ccc79bd8f284910a6e2fab7ed86b9dedca41475d5
+
+[Sui]
+Alamat: 0xf7581164a7d30b31b943e9a06aec1a2523244f9b71c09afc1d1c5177bb23deb9
+Private Key: suiprivkey0026f90fcc4052bc1c8eb96be9ed25f97759818417bf641c2982209fc7902c2c9b
+
+[Solana]
+Alamat: BPH7igtgTkQdHcfT4m1Vj2ksrihcGkgTvPvp7oqbzxLn
+Private Key: f1c064f721d085b699b01586e9de0bda4dcedbc37779de6bca76d850fb6b0c79
+
+[Aptos]
+Alamat: 0xc68df025fc06d5f3f31e65e49afdb7914ce32b4f7142329e7e7c2d2e09e58e28
+Private Key: 03a5a2aaf53eda13443a9043aa6b6278ed6608baf7dab3fd1eec34a047d73cca
+==================================================
+
+
+Dompet #78
+Mnemonic: crisp south tuition runway shallow edit mirror flock bench open symbol pig
+
+[EVM]
+Alamat: 0xfCc291702534559e2C7425E5EF41683f7f59FE80
+Private Key: c76b96e217c4a43995f2f5a96f35e9edb8e8b492a561da4ea9ccea098376c2c8
+
+[Sui]
+Alamat: 0x646dae02787c46fb305f283309b2a865814003684d40bbe9fd6c9661c8594b11
+Private Key: suiprivkey0079ee0aa8b0fbe3e0a8589e25a2dc2bb7591cc6b7f90cb93eee0524b5c97b90a7
+
+[Solana]
+Alamat: 8oHxq3AwzXHfAz6gPmabqBdJeSus3nBxu2EXX8Lv7UZX
+Private Key: 5ac1769ffd15ce6208ef353aad9038de775f1b8be0ca784bf4698bca37140549
+
+[Aptos]
+Alamat: 0x4b227857b8ccadef3daeb2fc0de95b1c2530088feb2de54ea5c125cf0e1ececd
+Private Key: c38f870e6ad3cf5feb8b21b588c32be60e3268a71cf1fdccc292748eb2b3c413
+==================================================
+
+
+Dompet #79
+Mnemonic: stay obvious rich payment leader envelope velvet person video budget river element
+
+[EVM]
+Alamat: 0x2130C0d1913023f951b6DC46D1E94B7f6a253A1C
+Private Key: 183c197c0ca6c2581909965248090aed3d7ad8fd879efcb7b2b1d5ffc9b3036d
+
+[Sui]
+Alamat: 0x4784101ac5fa153583c02e784cd64d53ef8345ad5e1449477fa76111b2e20a8b
+Private Key: suiprivkey0027e8eeaf7ac75472ac6c0897d1c8958dd8f5e881aa2553556594ac8246e5147f
+
+[Solana]
+Alamat: H81EewM9GK4C3zTrWukLxzs5vsVjUgx5MVHmLs2584Fb
+Private Key: 9cc5b92fcffaad80db6d1f5910d27e1b2b455dc629e9672b537551058cf0f94d
+
+[Aptos]
+Alamat: 0x0b924f0e5f34d222ab8e5eb800179cc6a4fb314b6ea519ef2c3a9ccceb16c5c5
+Private Key: 7e128c57c1a3474e5562d7d353c4575110b75875a155413b373c0e49e5f2c3a6
+==================================================
+
+
+Dompet #80
+Mnemonic: ship gravity truck art amazing then immense consider file ripple wine degree
+
+[EVM]
+Alamat: 0xcF917137Bee5aa0b17cD5fD72970C3eC3F56b26E
+Private Key: edcb7c582abb09b787f00560c13b09faa366b9012f5d09966012940fd08e0b2e
+
+[Sui]
+Alamat: 0x616543b0eb07cfa76c22470da09fc90d750d2e5cc21a08a29d65ec9412f1c612
+Private Key: suiprivkey005f23ac536c633fda69dbaaf51085cc4f1681e894cc839c08a2fcea4d12a2b1c6
+
+[Solana]
+Alamat: EGc8fgu8vMugntZnCFwWV3cDNq6gj9WZeT5KuFDnmCdb
+Private Key: 04208a5318009c3800a54e1bcab71a0549b54045059fe4504e9f1c57a38ef846
+
+[Aptos]
+Alamat: 0x2b5afd41fbb4c0fc88426d5110e002837948fce34f036b7c1258d1ef3334eaeb
+Private Key: f74b9356fe371d5ac0448168aa700ba8f88e6c981ca9d123385e432274761865
+==================================================
+
+
+Dompet #81
+Mnemonic: kitten best file thought limb phrase orphan stadium choice cream choose among
+
+[EVM]
+Alamat: 0x552B3e194dcf6E963601EF4d38874f05c737179C
+Private Key: 49c530949745aaab7fac43d5c4d7edea1bb3bc80fdd1589c8bb713b583a1389e
+
+[Sui]
+Alamat: 0x012ff761365355d35f25a9e4d32c41cbad1202fac93705ec83f402e9d19150c7
+Private Key: suiprivkey00ac9099b9f03c6427abba2c784f1d3a7058ab57dfc956d1e024443ecd1e91b062
+
+[Solana]
+Alamat: HQeBuF543RDHjacMZJd63MjvL4W9ziZq2ghB6Un8L466
+Private Key: 232af71a5406e0077826b54e9547b3c34150bcd69dac1a86f6a37c9595697df7
+
+[Aptos]
+Alamat: 0x1d993d31a59458e964bb661ffa2cae1ce9b486ad8c102256263393a56c4f7d08
+Private Key: 12156ced30a942e64d9c39f4c470588c2862a8b6d11b1f513a3fc4fdb36a6960
+==================================================
+
+
+Dompet #82
+Mnemonic: aware shy desk badge sample bulb process link scissors whip expand happy
+
+[EVM]
+Alamat: 0x56C345384Fd1DE43E061475BF8C0120d437Bcc72
+Private Key: 673d745a85df8ca0829666c3a52ab1eed3cb06a7a47c0b3afaad855ee9f8beab
+
+[Sui]
+Alamat: 0x015fb6198300388b0290db689f0361b0c10e1ca4d35b68a3e1141fd2ccb4c40d
+Private Key: suiprivkey008e3d964c33b4ece0bf1fe3fd452ed7a6af0291b35d1e100c0d285ec6eaadc24d
+
+[Solana]
+Alamat: G3q6YdQ8DJ6QABzqgcB9LHkftZCcjWoiutBJorqEGLKB
+Private Key: ee7e4cb00a018c9785697d8dad3da9f15de3ce938dbf9c1383317a90f1b25ab7
+
+[Aptos]
+Alamat: 0x7da3a4b79327551c2152ee0641e9437bd1810d3d2c31e1120f9b788e91fbed26
+Private Key: f398886142d8245b228c6ce289937c64a9275fdacb7a76f8e4d36d46519f0913
+==================================================
+
+
+Dompet #83
+Mnemonic: pride manage napkin sunny simple speak brisk deer busy judge item shallow
+
+[EVM]
+Alamat: 0x524D8a3446fFDF9F1a6Af5A0dE0BaCda2E406BE2
+Private Key: 3cb68ef93f182a1b0fd3f0d7f5c8ac852c07dc7de3106beaf84b40b62d30c259
+
+[Sui]
+Alamat: 0xda9c06cbe27c14264217805702374cc88203fda7d7c473c690ff5735f131a7d8
+Private Key: suiprivkey000c37d3a4bf927b57eed62300fc2e08b627e89b687c22b02c73e7ede98b471fd4
+
+[Solana]
+Alamat: 5a4X5hNpTF2nyCE96QxeFucuuaHW71pTPSjEqxpxWzT9
+Private Key: f956bcbef3b5f6e14e3b81ac042a0d73d8d200bc3171682664b34cae38e0d578
+
+[Aptos]
+Alamat: 0x5e9ab2bb679e283873699a93e3d74a131956ccaef3f5eef8dc8ec9a25d39a909
+Private Key: 937b46dd3f17f17ecf062098d92ea40954bee2e827300bd00e8d9e235df13554
+==================================================
+
+
+Dompet #84
+Mnemonic: arrive net pair govern scissors half ladder organ scheme awesome gym tiger
+
+[EVM]
+Alamat: 0x915bD769293846A2DE7a5C83c8d4351a2748f28e
+Private Key: c48e76b8575c92c3f474756830a91b513e0a30ee3da44520df11d39fb13ce22b
+
+[Sui]
+Alamat: 0x1ab7fed04ed558412c08b7d325c585403d1fde730b63e16707be9b8fa9c411cd
+Private Key: suiprivkey00bb436052fae076ec48930c246aadd544dc199f691237d50fbe9a999aae568878
+
+[Solana]
+Alamat: 6PqtVEWc4S6E2PJZVoNd3o8NTEvZu1BhJQHJ3Y98kvDS
+Private Key: 23cb157e76750028af2b73a095f9a9b4aff85159bb5acd5c2d8b71d9719c8e3d
+
+[Aptos]
+Alamat: 0x552bbcd215a0f41a073c79ddca7d062acb44388ac37dbbcdcf782354c9a4dab0
+Private Key: 059aee9470b46473ddb591997954bb4d3ed967bc5829d6b47beb508a816b903e
+==================================================
+
+
+Dompet #85
+Mnemonic: best school step vapor giraffe wire ankle flight truly margin usage receive
+
+[EVM]
+Alamat: 0xFeE78505C171E72f0b7549f0D1fa5fcEe7e04490
+Private Key: 48fdd96c9269753cac22c36a41351b66ab1986be338fcd6d9f03647521f4617d
+
+[Sui]
+Alamat: 0xb064b590e40176e9ab978c26495e65950b2fa5cb2bb351ce23392591d6e6aef7
+Private Key: suiprivkey00d0d9d6af53204af3575b6baab121bfb75b4f98fb998da10b1296d239e3691457
+
+[Solana]
+Alamat: 6X2uuTHT5XwmYgDmGCzbWoFpX1835oBEW2gz7jvSn3M7
+Private Key: 4b698617bcbeb4f496a4a2f5d9de225c8985eed2378d9c76a82fc106b39c75d5
+
+[Aptos]
+Alamat: 0xb57d831581ca6151760b2b8b681eab81212404c56d0876f275c1b4334b10a661
+Private Key: 4fe9c9bf358c324f57ffb389215ac7e7610384db288223e6cdcda2107ae4f744
+==================================================
+
+
+Dompet #86
+Mnemonic: dad piano burger brisk horror dwarf offer report sound chaos pride enlist
+
+[EVM]
+Alamat: 0xeEc85428B271C7f7F47207a9D11066FeAdB85E44
+Private Key: 2a7efc908874b745147d4456da708f97f28bcc1fa0ffe7b9a1ef9d25f6bf35d4
+
+[Sui]
+Alamat: 0x604017da97b081c87a696b9c4884d72036387b41091cf7d39c567e6c928b0bd1
+Private Key: suiprivkey00c3f6d6365e5a2375a42953ede7d1465bc024cd42f9469de3c38443c40cb91d5a
+
+[Solana]
+Alamat: 9ftqbErSZ7mAnuh6wEpXKR4wVqBuTs8qGeCWwBXc5Nm6
+Private Key: 629df684cfb647acfd53d0d8483b2417db55bc0b5d422fdcec9460adbfa81abe
+
+[Aptos]
+Alamat: 0x0fb1dce56678e7bf380e32d316435c124413b5311e9f025ce9055872ca5c7d31
+Private Key: 2bafa0f1f3813ae6bedb550df57bb7cd863e2bd5e9ab3c9f78c0ed9f4451c4d8
+==================================================
+
+
+Dompet #87
+Mnemonic: festival gorilla weapon give matrix know soda risk essay rose habit depth
+
+[EVM]
+Alamat: 0x6c52F1A948191b2d0D47801bDBBd42F2523b210F
+Private Key: 4ca09f88813a2f914931c356d1567c4e328a0b354efacc8457b73e26a60a8b70
+
+[Sui]
+Alamat: 0xcc287225f93bdeff5bc82324703774fae6c77a1aada1270bd10c9a13a3d39259
+Private Key: suiprivkey00fc687e19439de7f434cd8cb8949a639cb3ea529a24eefe0a6690c45eff946c5a
+
+[Solana]
+Alamat: 2jHNFvsYZ8yXPmrpkm7AtJgUBoTnzZQNgEh2wCsfBvBm
+Private Key: e16d8b015fff6ab11be3e161a0a9fcbb39d1465ccca9f12ffd8d48462e8306bc
+
+[Aptos]
+Alamat: 0xeabb5b5ea3d732fd8fd860cebd1ff6825b26b99167e840790a1bba0d6164b4de
+Private Key: ba7c11742e84b4233fa87a75296104cf8fa9b6532e93df4ce548f24e325724c2
+==================================================
+
+
+Dompet #88
+Mnemonic: mom jump retire guide wire fresh come tennis nerve resist mass rocket
+
+[EVM]
+Alamat: 0x4Bf8D5030B6e45Ff50c4e32d340F3249FA41db8a
+Private Key: fd2ddca9cf85fcb170ce455b0dda9d169a89632238757a1e4081b29dfb217fc9
+
+[Sui]
+Alamat: 0xf7e8464ff51adc0a3b9d27cdbce16fb2befb1853115dcb302d25a2efd1a47488
+Private Key: suiprivkey0018a50a09d70a476900a89abd9fac9b2c55795e5ebcee910ae3293f9ccaabd636
+
+[Solana]
+Alamat: 7McmcxZktKAVqvG3cuzxJBPAc9ggZF5r3Z2m3CmGWEdz
+Private Key: 55c0749ed5d8537fd8bec299a358993c21058c576ef68db374f1a3c1c7ca7d7b
+
+[Aptos]
+Alamat: 0xc1f0b2cda61d3be340b9adba3897b1bc38de93bdbe0f6bbe1ed3993b3ae9bd13
+Private Key: 1c8b850622d94bf2f242d77634fdf7e275453ac6dfe30c2570d09bf5b529fae4
+==================================================
+
+
+Dompet #89
+Mnemonic: dust loop anchor honey dance hope fluid appear universe rug bargain kitten
+
+[EVM]
+Alamat: 0x4a30FFe7023754aa41C19c0EBA260b4051EcA7DE
+Private Key: a04c456408164b6598f80ad7cbd8706804aafee2b65bb95054e489f8acca5c6f
+
+[Sui]
+Alamat: 0x983862535aab10b27ab8b60c58ed65dd4e1129dc6577d6c7d4aac7b9edab1d7e
+Private Key: suiprivkey0001042ddffd03c1c1c9af6b71dae24ca49ff488c46ded269c9e87ac92efc2856c
+
+[Solana]
+Alamat: D621MMH4TPw2w1CzKKcj9u2VcNj5Ne5eQ9J8aD3DPe1V
+Private Key: feefeb9ab545259911b6310687901364951a5c9c32b580af53ff2317540e212e
+
+[Aptos]
+Alamat: 0xe8b6377a573e59c93aa060cd735bc04aaec6c77860c52558a795efa7923a3ebd
+Private Key: 485d63ebeb8b19617bcdc646ef0248bb5074f373dc0c61a6d0495a01a2fef853
+==================================================
+
+
+Dompet #90
+Mnemonic: picnic cradle blue imitate misery arch eager tape exist select axis cupboard
+
+[EVM]
+Alamat: 0x035E25B5BC59cd30491c388290510375C358f7A5
+Private Key: 80841a18aacf2ad4c1e07a704fb00fae635f585c6facb5ca850e43c76b6f9fb6
+
+[Sui]
+Alamat: 0xe9ab55dd61d258bc17e1246233d22164433e9d50441507b279abc296bfca7064
+Private Key: suiprivkey006d40216dfb334a5792b5f4085f7a6e9d7d2f758703d4522c987e1a6ad68e1280
+
+[Solana]
+Alamat: 28MQJwVviTchAs2kgVoWwCBK1arB7FyDoVX1kyTsG7yC
+Private Key: 8d5f943095b0846c8eb3bdb5c84bf8dc20a395b2e46f66dac8ff3a9b6106c1c6
+
+[Aptos]
+Alamat: 0x2ec49614cb7fb824a7041fad3b1090ee35397be84ab2a51fa1ed584791991d96
+Private Key: 32fcb9c5bfb51d1adcf5fcec67d70558c6fa41048a77cb4620d17e8da9a8e0ed
+==================================================
+
+
+Dompet #91
+Mnemonic: meadow model swift stool file laugh shuffle business empty cargo fabric half
+
+[EVM]
+Alamat: 0x2d2325667Ef862a9ae8BD1368f22C009d7e19d50
+Private Key: d8d6ce9e41dccb0c27e6fb8b63244926ca8dbd55829dabff484c4ea2b0fbe6b7
+
+[Sui]
+Alamat: 0xd9f982e3e5ff76eac4b619c1915ed39503be5b225000a1efcbf7ea3dfc4885b9
+Private Key: suiprivkey00b1c667207c32abcf77896066da3255de8e7976528b32c75212ac839202acf34d
+
+[Solana]
+Alamat: 554DnNZ3gKnAaXC8Sp7npv34Tz5dtveE4M6vfs2Wbs6o
+Private Key: 4b6815263b54b392f553d1ad62337e9e7ec3879455fab3ffc715a429448bad09
+
+[Aptos]
+Alamat: 0x909d7d2eabe76977d0e20b11e5aabb1be633e9aa9e53d67103b9e1d750eca440
+Private Key: a788d1955f28d01194aa03b1644a41318723a6cd170bb93e38aed82ed18f3dad
+==================================================
+
+
+Dompet #92
+Mnemonic: dune canal gesture slot industry chunk hope suit search fit affair crash
+
+[EVM]
+Alamat: 0x566Bf0EB4ac8a178e58a26d4A8dC626E7eEaef39
+Private Key: 8cc63601a92a0bc4fc313970520ae15d7caec4a51ebb7ab58794af5426258d51
+
+[Sui]
+Alamat: 0xee960e6f0c608e12d3ecd1e12d4f5ee6ee1280f82e4df26ebe32964bd92f2cca
+Private Key: suiprivkey0009c8c2cdbd90a8524a87b71c6b86672f71cca2d03b9fab0d5b5cd5bc11bd849e
+
+[Solana]
+Alamat: EKiA2hFEQfYFUKrRSs9NYJE6op82tdMovDwrUFHL8JQW
+Private Key: 570c4c2d3b6ad505031874b7e241fc2acdc312f279b6001c158535200a92e6d0
+
+[Aptos]
+Alamat: 0xbab7b0422b74f4edec55579d814504cffd1c74a963ae4d5c73e7747cd9526586
+Private Key: 46ed3c8e4fca137e94cceeb97e5ba924ce9614c63f4d7acd8e698faae9e9eb99
+==================================================
+
+
+Dompet #93
+Mnemonic: border tilt utility hazard advice gesture raw version slice episode copy vintage
+
+[EVM]
+Alamat: 0x7d1fC29C80083eF355bF5F1B5e48dD25dE872Ddb
+Private Key: 2e3742a9731bb13a5e1e040f86ea344fa394536682afeb3ca2f87d934ed9979e
+
+[Sui]
+Alamat: 0x57616107185a9c310d91792db371247001f7967ede5b1112929a3db05c27a448
+Private Key: suiprivkey0002ac431a818c149cdfdcc487eee5cc56697174489f87724406b2b5e630f23254
+
+[Solana]
+Alamat: CYPCpNNMPB5NdQFkjCjeDnFpNbn6AajrmqZKq5Vimnz2
+Private Key: 59f96913b50269fbeee4339fc30bbffa5d41560c44534f8bfeffb4f1557fa0fb
+
+[Aptos]
+Alamat: 0x4e4ef956a6b8da3745655d638385175b81a89810ef7a76193aeb2b1cf3a6fd70
+Private Key: 15d656174dd37c171337c8f087d0fa396cf3b7902a8386735af9b9e052e7fbda
+==================================================
+
+
+Dompet #94
+Mnemonic: differ language cruel seven under innocent property provide local speak start candy
+
+[EVM]
+Alamat: 0xaa33C0043D8997fa780D29bFC2d06149a7E3b516
+Private Key: eaa7ac0839a4890de70d81b18d7fa6c7c0321171688a3ef57d00978b6edd49fb
+
+[Sui]
+Alamat: 0x162f3bf64b0b13e2e5b1b8f8e538f71181d1ebabf6090faf18daf8e833ddb13a
+Private Key: suiprivkey009af27c6f6c515448bf12f5d81a9b5daadda37996b8eda778db4b7d01b22b48f9
+
+[Solana]
+Alamat: FFkMBddoGg6xHppwVn7xbShyATGbcqhAwViytvPuMoPV
+Private Key: 198bbbb22d6f78995e18f06f016efc33f954459ae2d7ced3b37c5d7182e62dc8
+
+[Aptos]
+Alamat: 0x40d835bc4789f324b0f03711414824522bf08f0c18913ba3e7634af6852634c3
+Private Key: 2bc71b91b5e19e33a150d4a675b5eb57ca4a4f1b5628016724d455f685cb5b19
+==================================================
+
+
+Dompet #95
+Mnemonic: right minor ostrich together laptop wedding guide cargo journey history round govern
+
+[EVM]
+Alamat: 0x241e0558417f2605A4c8b01244F1EDAa041fd737
+Private Key: 5be097defb2e8a52c8b659e59fec46ff61b8840c14da3d98863ad49bbda3efcf
+
+[Sui]
+Alamat: 0x28cc2b10713f3ee75ebff09f7c48585149978268b8febb738b176ccec3e636cf
+Private Key: suiprivkey006e93bef687aff877edc983c0a389bc961f56dd2035e11128a428a2cb9098e0f8
+
+[Solana]
+Alamat: FqiCRYY1sKGCXerMV66vr2DoN7tyDU2iLvmehR5pC5tj
+Private Key: 42d13915ab4d8533253e4872399cefe64c1b0282f5dc3409d42f444ab963390e
+
+[Aptos]
+Alamat: 0x9ff00bf10b2f4441548a8f427237b62ee6199d64f30f9c9419d12608259a90ab
+Private Key: 7ca9a5d660a9792cd1a0dcb21941a9384167989f131aedffc0eeb914e80b300e
+==================================================
+
+
+Dompet #96
+Mnemonic: fix unit two come melody weasel hollow wet ocean enhance truck leaf
+
+[EVM]
+Alamat: 0x3fE71AB6859A11633AcB84e356BD25CeCC84CF89
+Private Key: d3448ff7e14133e8a422161fbc20df1cebd713abb37f052f1ab2b9b3649ae181
+
+[Sui]
+Alamat: 0x902de8d86af4f197df3453564c09096a7b88a854358c9e63da0548f99c9f51a7
+Private Key: suiprivkey00f2c032b7f2f42949917f041fbb413d5ac85e7bb1bfd08c48e22421ce17ab86b0
+
+[Solana]
+Alamat: HhrJTkkp8sG47m8Q5Czh6yEammDydUTvqkhbm4euPeRQ
+Private Key: d1cafaea800fa2a58ae177dd76d5750b58f6ac7bb2813de740bb6c583ab8b92d
+
+[Aptos]
+Alamat: 0x53d0269c8ecc9626cd4a15c2797b2208c9eb72d3f325b74d67a970f3340bdedf
+Private Key: 7afc795ade0cf2f1abd220970f9c57c94dc9c9455fdb0ed674f67a7dc76944da
+==================================================
+
+
+Dompet #97
+Mnemonic: fat spot later where column subway relief sword fit apart crunch coyote
+
+[EVM]
+Alamat: 0x52D8c39854509EFD001e286176675Cf176785bb1
+Private Key: 8046a18419b79d7ab12da265ac0fdc9faa0f663b82d3802b611b869c30500781
+
+[Sui]
+Alamat: 0xd0cf282b397a0362fa4f4726fd6837ee7628bd25affe5351c51cbed5b3c47c4d
+Private Key: suiprivkey00bc6c34a833b4ab4af27788da25728b65e52d37cc4411fd234a7c4768487ae581
+
+[Solana]
+Alamat: 9eEe97mm1vk6mG8RV4GAx8VQtN7zCE2GYTg5oAgzRXz5
+Private Key: cb38a0081a1c52daad4e65721228cc672a586cd0e81bc62677655c1a45aa6675
+
+[Aptos]
+Alamat: 0x6e624d267849738dde0f168cf2b1fe57849546ba7709bb6388f3d68bec822152
+Private Key: b71d38c1eff3524c3019b94ef69c1de7b9b1957668a7fb1678bf2feaa37ffd58
+==================================================
+
+
+Dompet #98
+Mnemonic: usual rural bulb vibrant envelope stuff nuclear mango settle trim sheriff buffalo
+
+[EVM]
+Alamat: 0xbf64037F38D6c95cCAd4eca7B2F67340AaB445a5
+Private Key: 327f88d9fdc80d4c6c646798d57aabe9a57a674a7328260cf12dca0690eb248b
+
+[Sui]
+Alamat: 0xbd99abca8968f10f487f1f8aaa5315f820cb1e8bd8469904b45efdf8579cce5a
+Private Key: suiprivkey00409b15c76dd53811e80f22464867979cc0851236754f26807ea9cc5e85efef8b
+
+[Solana]
+Alamat: BzgAhbkXJbYkKaMuQiL43mHv3NCQptGMZKubwFhdZdhw
+Private Key: 49aa9cef5ab88c28802bd2bc0eb776e45f8188b9f0e037a4980791085ac6da86
+
+[Aptos]
+Alamat: 0xb273b7c24d2dd73c36899b058b1e1c2d2347bfedecc92a18a4bd4ecb47dc8f66
+Private Key: c5b8af847cc610d5a2be643d82afa904ba93bb927cfb294cfdacca014dffa5f0
+==================================================
+
+
+Dompet #99
+Mnemonic: mixed peasant document aisle yard coconut any loud cereal radar come unable
+
+[EVM]
+Alamat: 0x9bAfA13f30Dfa3CDEBDA9E154469e2D4d2f6C8C5
+Private Key: de07593902f1bd80245c949fea5a0785da505243e2ecb88677232ba5178be1fe
+
+[Sui]
+Alamat: 0xa94689c931cd1b275d872b2e39433e151da6ce9e7f0630a881c2852c3e2f2104
+Private Key: suiprivkey00ef9bbd73b2ee43919b14ae8f10681f2b0d47603c64ecbaf32fe44afbc5d6e121
+
+[Solana]
+Alamat: FiwqCNVQBbjjn2wkiVUrW71wovKmxBMk9evjShy2fFgY
+Private Key: ef14c5a6be36b9fe6c79d702a6f64690ce960854d5ab3d150da1511c55153af8
+
+[Aptos]
+Alamat: 0x1cfe25e1baa50d783e14f9f4cfd0e92bea81077d328667fbe64573e90afdedcb
+Private Key: 4d1232fe2134acfd598e9778015bc2856e6d70af3ce7caa792b24f01ed707cd2
+==================================================
+
+
+Dompet #100
+Mnemonic: category hybrid kitten century draft struggle noise burst before wheat diary wrestle
+
+[EVM]
+Alamat: 0x39e0D9F2704f570dC008cC2f8A59F7fa8bD806F3
+Private Key: 79b574095b088c567caa4493007afb30fc43d96840ce6107fe1a101e696f24c7
+
+[Sui]
+Alamat: 0xabd092dd9622a4e6cf2ebd4b91defbc91924223123de9aa989fc232aa86036bc
+Private Key: suiprivkey00dafc2ec958a10465722bd4499c98270fbfd174a04d7c393e741d24d6663978c4
+
+[Solana]
+Alamat: FpUhX25mckMMRWMTzQ9XUoW89QcbNjt6Rzs6nM5Djdot
+Private Key: aa9e39e4e8ffe0ee7b74f50be75883f018c1a98d6661fd5cec7bce2588c01f56
+
+[Aptos]
+Alamat: 0x50c3127d6653e762e664df8aced9ed9f2513b7bd8ce625fc47913ce26a383e2d
+Private Key: 8215d51faaf0e2af570be6d972ad30d0bc2ed132fd08eeeb9d811a79dce80784
+==================================================
