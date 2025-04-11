@@ -86,7 +86,9 @@ fi
 git add .
 git commit -m "$COMMIT_MSG"
 git remote remove origin 2>/dev/null
-git remote add origin https://$GH_USER:$GH_TOKEN@$GH_REPO_URL
+
+CLEANED_URL=$(echo "$GH_REPO_URL" | sed 's#^https\?://##')
+git remote add origin https://$GH_USER:$GH_TOKEN@$CLEANED_URL
 
 echo -e "\nPush ke GitHub..."
 git push -u origin main
